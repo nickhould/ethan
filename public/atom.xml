@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-01-15T12:36:00-05:00</updated>
+  <updated>2012-01-15T15:37:48-05:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,9 +18,13 @@
     <link href="http://yoursite.com2012/01/bienvenue"/>
     <updated>2012-01-15T12:30:00-05:00</updated>
     <id>http://yoursite.com2012/01/bienvenue</id>
-    <content type="html"><![CDATA[<p>Hi! After about six months, I&#8217;ve finally created a (functioning) design that I actually like. It&#8217;s running on a modifed version of <a href="http://octopress.org/">Octopress</a> that allows me to <a href="http://kottke.org/05/10/tumblelogs">tumblelog</a>. All of my <a href="http://ethnt.tumblr.com">Tumblr</a> posts will be ported over soon, but in the meantime, feel free to give me feedback on this design.</p>
+    <content type="html"><![CDATA[<p>After about six months, countless designs, and head-desking, I&#8217;ve finally created a (functioning) design that I actually like. It&#8217;s running on a modifed version of <a href="http://octopress.org/">Octopress</a> that allows me to <a href="http://kottke.org/05/10/tumblelogs">tumblelog</a>.</p>
 
-<p>Thanks!</p>
+<p>I&#8217;ve decided against importing my old Tumblr posts. Mainly because Tumblr&#8217;s API is dumb (it uses XML with inconsistent tags!), but also because I want to start fresh. There&#8217;s a lot of really terrible, non-informative posts there.</p>
+
+<p>The code for this site and the theme are <a href="http://github.com/eturk/ethan">on Github</a>. The <a href="https://github.com/eturk/ethan/tree/master/.themes/ethan">theme</a> is under the MIT License, so you&#8217;re free to do whatever you wish with it.</p>
+
+<p>I may or may not add comments to this site. In the meantime, feel free to talk to me on Twitter as <a href="http://twitter.com/ethnt">@ethnt</a>.</p>
 ]]></content>
   </entry>
   
