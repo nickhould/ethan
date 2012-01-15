@@ -1,0 +1,249 @@
+/*
+	
+		file: css/application.css
+*/
+
+@import "gyaku";
+
+$calluna: "calluna-1", "calluna-2";
+$calluna-sans: "calluna-sans-1", "calluna-sans-2";
+
+$primary: #53C980;
+$secondary: #1CAD54;
+
+$lighter-primary: #66E898;
+$lighter-secondary: #42E37F;
+
+/*
+	= Appendix
+		I. Media Queries
+		II.
+*/
+
+/*
+	I. Media Queries
+*/
+
+@media handheld, only screen and (max-width: 767px) { /* Handheld devices. */
+
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) { /* iPhone 4 */
+
+}
+
+/*
+	II. 
+*/
+
+body {
+	border-top: 2px solid $lighter-secondary;
+	color: #333;
+	font: 300 15px/1.75em $calluna, serif;
+	text-align: center;
+}
+
+a {
+	color: $primary;
+	text-decoration: none;
+	
+	&:hover {
+		color: $secondary;
+	}
+}
+
+blockquote {
+	color: #444;
+	font-size: 1.15em;
+	font-style: italic;
+	border-left: 3px solid #e0e0e0;
+	padding-left: 1em;
+	margin: 1.25em 0;
+	
+	cite {
+		position: relative;
+		left: -10px;
+	}
+		
+	cite:before {
+		content: "\2014";
+	}
+}
+
+ul, ol {
+	padding: 1.75em 0;
+}
+
+h1 {
+	padding-bottom: 10px;
+	text-transform: uppercase;
+	
+	a {
+		border-bottom: 5px solid $lighter-primary;
+		color: #555;
+	
+		&:hover {
+			border-bottom: 5px solid $lighter-secondary;
+			color: #333;
+		}
+	}
+}
+
+h2 {
+	font-family: $calluna-sans, helvetica, arial, sans-serif;
+	font-weight: 700;
+	font-size: 1.25em;
+	text-transform: uppercase;
+	
+	a {
+		color: #222;
+		
+		&:hover {
+			color: #444;
+		}
+	}
+}
+
+h3 {
+	font-size: 1.125em;
+}
+
+h4 {
+	font-size: 1.05em;
+}
+
+h5 {
+	font-size: 1em;
+}
+
+h6 {
+	font-size: 0.75em;
+}
+
+p + p {
+	padding-top: 1.75em;
+}
+
+#contain {
+	margin: 4em 0;
+}
+
+#contain > header {
+	padding-bottom: 4em;
+	text-align: center;
+}
+
+
+article {
+	* {
+		margin: 0 auto;
+	}
+	
+	header {
+		margin-bottom: 0.75em;
+		max-width: 760px;
+	}
+	
+	section {
+		max-width: 460px;
+	}
+	
+	footer {
+		margin-top: 2em;
+		text-align: center;
+		
+		time {
+			border-top: 1px solid #e0e0e0;
+			font-size: 0.85em;
+			padding: 0.75em 5em;
+			
+			&:hover {
+				border-top: 1px solid #333;
+				
+				a {
+					color: #333;
+				}
+			}
+			
+			a {
+				color: #ccc;
+				display: inline-block;
+				
+				&:hover {
+					color: #333;
+				}
+			}
+		}
+	}
+}
+
+article + article {
+	padding-top: 10em;
+}
+
+.text {
+	text-align: justify;
+	
+	h2 {
+		text-align: center !important;
+	}
+	
+	h3, h4, h5, h6 {
+		margin-top: 1.75em;
+		
+		& + p {
+			text-indent: 0 !important;
+		}
+	}
+	
+	ul, ol, blockquote, br {
+		& + p {
+			text-indent: 0 !important;
+		}
+	}
+	
+	section p:nth-child(n+2) {
+		text-indent: 1.75em;
+	}
+	
+	section p + p {
+		margin: 0;
+		padding: 0;
+	}
+	
+	blockquote {
+		margin: 1.75em 0;
+	}
+}
+
+.link h2 a:after {
+	content: " \2192";
+}
+
+footer#pagination {
+	margin-top: 10em;
+	max-width: 560px;
+	
+	p {
+		display: inline-block;
+	}
+	
+	p + p {
+		margin: 0;
+		padding: 0;
+	}
+	
+	p#older {
+		float: left;
+	}
+	
+	p#newer {
+		float: right;
+	}
+}
+
+#contain > footer {
+	margin-top: 6em;
+	padding-top: 1.5em;
+	border-top: 1px solid #e0e0e0;
+}
