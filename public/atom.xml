@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-01-16T15:29:03-05:00</updated>
+  <updated>2012-01-16T16:00:06-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[audio]]></title>
+    
+    <link href="http://ethan.heroku.com2012/01/wombats-techno-fan-afrojack"/>
+    <updated>2012-01-16T15:54:00-05:00</updated>
+    <id>http://ethan.heroku.com2012/01/wombats-techno-fan-afrojack</id>
+    <content type="html"><![CDATA[<p>The Wombats track <em>Techno Fan</em> is great by itself, but the Afrojack version is better!</p>
+]]></content>
+  </entry>
   
   <entry>
   	
