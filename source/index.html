@@ -12,6 +12,9 @@ layout: default
 		{% if paginator.next_page %}
 			<p id="older"><a href="{{ paginator.next_page }}">&larr; Older</a></p>
 		{% endif %}
+		{% if paginator.next_page or paginator_previous.page %}
+			<p>{{ paginator.page }} <em>of</em> {{ paginator.total_pages }}</p>
+		{% endif %}
 		{% if paginator.previous_page %}
 			<p id="newer"><a href="{{ paginator.previous_page }}">Newer &rarr;</a></p>
 		{% endif %}
