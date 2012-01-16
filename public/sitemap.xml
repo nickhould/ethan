@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com2012/01/bienvenue</loc>
+        <loc>http://ethan.heroku.com2012/01/bienvenue</loc>
         <lastmod>2012-01-15T15:41:32-05:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
-        <lastmod>2012-01-15T15:41:32-05:00</lastmod>
+        <loc>http://ethan.heroku.com2012/01/kitchen-synthesizer</loc>
+        <lastmod>2012-01-15T21:10:46-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ethan.heroku.com/</loc>
+        <lastmod>2012-01-15T21:10:46-05:00</lastmod>
     </url>
 </urlset>

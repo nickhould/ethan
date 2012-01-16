@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2012-01-15T15:42:16-05:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Ethan Turkeltaub]]></title>
+  <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
+  <link href="http://ethan.heroku.com/"/>
+  <updated>2012-01-15T21:11:20-05:00</updated>
+  <id>http://ethan.heroku.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Ethan Turkeltaub]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
+    <title type="html"><![CDATA[Kitchen Synthesizer]]></title>
+    <link href="http://ethan.heroku.com2012/01/kitchen-synthesizer"/>
+    <updated>2012-01-15T21:09:00-05:00</updated>
+    <id>http://ethan.heroku.com2012/01/kitchen-synthesizer</id>
+    <content type="html"><![CDATA[<p>This guy made a synthesizer out of household kitchen dishware like bowls, plates, and pans with leftover electronic equipment. Wow.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Bienvenue]]></title>
-    <link href="http://yoursite.com2012/01/bienvenue"/>
+    <link href="http://ethan.heroku.com2012/01/bienvenue"/>
     <updated>2012-01-15T12:30:00-05:00</updated>
-    <id>http://yoursite.com2012/01/bienvenue</id>
+    <id>http://ethan.heroku.com2012/01/bienvenue</id>
     <content type="html"><![CDATA[<p>After about six months, countless designs, and head-desking, I&#8217;ve finally created a (functioning) design that I actually like. It&#8217;s running on a modifed version of <a href="http://octopress.org/">Octopress</a> that allows me to <a href="http://kottke.org/05/10/tumblelogs">tumblelog</a>.</p>
 
 <p>I&#8217;ve decided against importing my old Tumblr posts. Mainly because Tumblr&#8217;s API is dumb (it uses XML with inconsistent tags!), but also because I want to start fresh. There are a lot of really terrible, non-informative posts there.</p>
