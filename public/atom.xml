@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-01-15T21:11:20-05:00</updated>
+  <updated>2012-01-16T09:18:24-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spaceship Earth]]></title>
+    <link href="http://ethan.heroku.com2012/01/spaceship-earth"/>
+    <updated>2012-01-16T09:17:00-05:00</updated>
+    <id>http://ethan.heroku.com2012/01/spaceship-earth</id>
+    <content type="html"><![CDATA[<p>A picture I took last April at Epcot in Walt Disney World. This was taken just after IllumiNations: Reflections of Earth ended.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Kitchen Synthesizer]]></title>
