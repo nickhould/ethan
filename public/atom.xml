@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-01-16T15:13:51-05:00</updated>
+  <updated>2012-01-16T15:29:03-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -14,7 +14,9 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Shit Nobody Says]]></title>
+  	
+    	<title type="html"><![CDATA[video]]></title>
+    
     <link href="http://ethan.heroku.com2012/01/shit-nobody-says"/>
     <updated>2012-01-16T15:00:00-05:00</updated>
     <id>http://ethan.heroku.com2012/01/shit-nobody-says</id>
@@ -23,7 +25,9 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Spaceship Earth]]></title>
+  	
+    	<title type="html"><![CDATA[photo]]></title>
+    
     <link href="http://ethan.heroku.com2012/01/spaceship-earth"/>
     <updated>2012-01-16T09:17:00-05:00</updated>
     <id>http://ethan.heroku.com2012/01/spaceship-earth</id>
@@ -32,7 +36,9 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Kitchen Synthesizer]]></title>
+  	
+    	<title type="html"><![CDATA[video]]></title>
+    
     <link href="http://ethan.heroku.com2012/01/kitchen-synthesizer"/>
     <updated>2012-01-15T21:09:00-05:00</updated>
     <id>http://ethan.heroku.com2012/01/kitchen-synthesizer</id>
@@ -41,7 +47,9 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Bienvenue]]></title>
+  	
+	    <title type="html"><![CDATA[Bienvenue!]]></title>
+    
     <link href="http://ethan.heroku.com2012/01/bienvenue"/>
     <updated>2012-01-15T12:30:00-05:00</updated>
     <id>http://ethan.heroku.com2012/01/bienvenue</id>
