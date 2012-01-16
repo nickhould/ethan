@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-01-16T09:18:24-05:00</updated>
+  <updated>2012-01-16T15:02:15-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Shit Nobody Says]]></title>
+    <link href="http://ethan.heroku.com2012/01/shit-nobody-says"/>
+    <updated>2012-01-16T15:00:00-05:00</updated>
+    <id>http://ethan.heroku.com2012/01/shit-nobody-says</id>
+    <content type="html"><![CDATA[<p>After all of the &#8220;Shit X Says&#8221;, Tripp Crosby and Tyler Stanton come up with a bunch of shit you&#8217;ll never hear.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spaceship Earth]]></title>

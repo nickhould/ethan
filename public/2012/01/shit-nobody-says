@@ -22,14 +22,15 @@
 				<h1><a href="/">Ethan Turkeltaub</a></h1>
 			</header>
 			<div id="main" role="main">
-				<article class="photo row">
+				<article class="video row">
 	<header>
 		
-				<p><img src="/resources/2012/01/spaceship-earth.jpg" /></p>
+				<p><iframe width="560" height="315" src="http://www.youtube.com/embed/f-x8t0JOnVw" frameborder="0" allowfullscreen></iframe>
+</p>
 			
 	</header>
 	<section>
-		<p>A picture I took last April at Epcot in Walt Disney World. This was taken just after IllumiNations: Reflections of Earth ended.</p>
+		<p>After all of the &#8220;Shit X Says&#8221;, Tripp Crosby and Tyler Stanton come up with a bunch of shit you&#8217;ll never hear.</p>
 
 	</section>
 	<footer>
@@ -44,7 +45,7 @@
 
   
 
-<time datetime="2012-01-16T09:17:00-05:00" pubdate data-updated="true"><a href="2012/01/spaceship-earth">Jan 16<span>th</span>, 2012</a></time></p>
+<time datetime="2012-01-16T15:00:00-05:00" pubdate data-updated="true"><a href="2012/01/shit-nobody-says">Jan 16<span>th</span>, 2012</a></time></p>
 	</footer>
 </article>
 
