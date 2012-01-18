@@ -9,8 +9,8 @@
 				<p><img src="{{ page.photo.url }}" /></p>
 			{% when "quote" %}
 				<blockquote>
-					{{ page.quote.quote }}
-					<p><cite>{{ page.quote.source }}</cite></p>
+					{{ page.quote.quote | markdownify }}
+					<p><cite>{{ page.quote.source | markdownify }}</cite></p>
 				</blockquote>
 			{% when "link" %}
 				<h2><a href="{{ page.link.url }}">{{ page.link.title }}</a></h2>
