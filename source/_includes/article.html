@@ -27,5 +27,8 @@
 	</section>
 	<footer>
 		<p>{% include post/date.html %}{{ time }}</p>
+		{% if page.single == false %}
+			{% include post/livefyre.html %}
+		{% endif %}
 	</footer>
 </article>
