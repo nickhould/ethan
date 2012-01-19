@@ -10,7 +10,7 @@
 			{% when "quote" %}
 				<blockquote>
 					{{ page.quote.quote | markdownify }}
-					<p><cite>{{ page.quote.source | markdownify }}</cite></p>
+					<cite>{{ page.quote.source | markdownify }}</cite>
 				</blockquote>
 			{% when "link" %}
 				<h2><a href="{{ page.link.url }}">{{ page.link.title }}</a></h2>
