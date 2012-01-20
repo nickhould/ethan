@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-01-19T19:55:22-05:00</updated>
+  <updated>2012-01-19T20:33:39-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[photo]]></title>
+    
+    <link href="http://ethan.heroku.com2012/01/internet-blackout-sopa-affects"/>
+    <updated>2012-01-19T20:31:00-05:00</updated>
+    <id>http://ethan.heroku.com2012/01/internet-blackout-sopa-affects</id>
+    <content type="html"><![CDATA[<p><a href="http://www.propublica.org/nerds/item/sopa-opera-update">ProPublica</a> posted an interesting graphic showing how yesterday&#8217;s Internet blackout affected support of SOPA in Congress.</p>
+]]></content>
+  </entry>
   
   <entry>
   	
