@@ -1,9 +1,9 @@
-<article class="{{ page.type }} row">
+<article class="{{ page.type }} row {% if page.single == true %}single{% endif %}">
 	<header>
 		{% case page.type %}
 			{% when "text" %}
 				{% if page.text.title %}
-					<h2><a href="{{ root_url }}{{ page.url }}">{{ page.text.title }}</a></h2>
+					<h2 class="instapaper_title"><a href="{{ root_url }}{{ page.url }}">{{ page.text.title }}</a></h2>
 				{% endif %}
 			{% when "photo" %}
 				<p><img src="{{ page.photo.url }}" /></p>
@@ -13,7 +13,7 @@
 					<cite>{{ page.quote.source | markdownify }}</cite>
 				</blockquote>
 			{% when "link" %}
-				<h2><a href="{{ page.link.url }}">{{ page.link.title }}</a></h2>
+				<h2 class="instapaper_title"><a href="{{ page.link.url }}">{{ page.link.title }}</a></h2>
 			{% when "audio" %}
 				<p><audio src="{{ page.audio.url }}"></audio></p>
 			{% when "video" %}
@@ -22,7 +22,7 @@
 				<p>Unknown article type.</p>
 		{% endcase %}
 	</header>
-	<section>
+	<section class="instapaper_body">
 		{{ content }}
 	</section>
 	<footer>
