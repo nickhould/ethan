@@ -1,43 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://ethan.heroku.com2012/01/doctor-who-the-movie</loc>
+        <lastmod>2012-01-20T12:47:10-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://ethan.heroku.com2012/01/bienvenue</loc>
-        <lastmod>2012-01-19T19:55:10-05:00</lastmod>
+        <lastmod>2012-01-20T12:47:10-05:00</lastmod>
     </url>
     <url>
         <loc>http://ethan.heroku.com2012/01/kitchen-synthesizer</loc>
-        <lastmod>2012-01-19T19:55:10-05:00</lastmod>
+        <lastmod>2012-01-20T12:47:10-05:00</lastmod>
     </url>
     <url>
         <loc>http://ethan.heroku.com2012/01/spaceship-earth</loc>
-        <lastmod>2012-01-19T19:55:10-05:00</lastmod>
+        <lastmod>2012-01-20T12:47:10-05:00</lastmod>
     </url>
     <url>
         <loc>http://ethan.heroku.com2012/01/shit-nobody-says</loc>
-        <lastmod>2012-01-19T19:55:10-05:00</lastmod>
+        <lastmod>2012-01-20T12:47:10-05:00</lastmod>
     </url>
     <url>
         <loc>http://ethan.heroku.com2012/01/wombats-techno-fan-afrojack</loc>
-        <lastmod>2012-01-19T19:55:10-05:00</lastmod>
+        <lastmod>2012-01-20T12:47:10-05:00</lastmod>
     </url>
     <url>
         <loc>http://ethan.heroku.com2012/01/down-with-sopa</loc>
-        <lastmod>2012-01-19T19:55:10-05:00</lastmod>
+        <lastmod>2012-01-20T12:47:10-05:00</lastmod>
     </url>
     <url>
         <loc>http://ethan.heroku.com2012/01/ohanian-sopa</loc>
-        <lastmod>2012-01-19T19:55:10-05:00</lastmod>
+        <lastmod>2012-01-20T12:47:10-05:00</lastmod>
     </url>
     <url>
         <loc>http://ethan.heroku.com2012/01/internet-blackout-sopa-affects</loc>
-        <lastmod>2012-01-19T20:33:21-05:00</lastmod>
+        <lastmod>2012-01-20T12:47:10-05:00</lastmod>
     </url>
     <url>
-        <loc>http://ethan.heroku.com/profile/</loc>
-        <lastmod>2012-01-19T19:55:10-05:00</lastmod>
+        <loc>http://ethan.heroku.com2012/01/radiohead-jaime-xx</loc>
+        <lastmod>2012-01-20T12:54:36-05:00</lastmod>
     </url>
     <url>
         <loc>http://ethan.heroku.com/</loc>
-        <lastmod>2012-01-19T20:33:21-05:00</lastmod>
+        <lastmod>2012-01-20T12:54:36-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ethan.heroku.com/profile/</loc>
+        <lastmod>2012-01-20T12:47:10-05:00</lastmod>
     </url>
 </urlset>
