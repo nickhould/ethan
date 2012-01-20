@@ -27,7 +27,7 @@
 	</section>
 	<footer>
 		<p>{% include post/date.html %}{{ time }}</p>
-		{% if single == true %}
+		{% if page.single == true %}
 			{% include post/livefyre.html %}
 		{% endif %}
 	</footer>
