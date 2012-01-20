@@ -25,7 +25,9 @@ $lighter-secondary: #42E37F;
 */
 
 @media handheld, only screen and (max-width: 767px) { /* Handheld devices. */
-
+	blockquote {
+		text-align: left;
+	}
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2) { /* iPhone 4 */
@@ -66,6 +68,8 @@ blockquote {
 			margin-bottom: 0;
 			margin-top: 1em;
 			padding-bottom: 0;
+			position: relativel
+			left: -10px;
 		}
 	}
 }
