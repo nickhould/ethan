@@ -5,6 +5,7 @@ date: 2012-01-15 11:59
 text: 
   title: "Doctor Who: The Movie?"
 permalink: 2012/01/doctor-who-the-movie
+source: 
 ---
 
 io9 reports today that [there are rumors that _Harry Potter_ director David Yates could direct a movie adaptation of _Doctor Who_](http://io9.com/5859431/a-new-doctor-who-movie-from-the-director-of-the-harry-potter-films). What&#8253;

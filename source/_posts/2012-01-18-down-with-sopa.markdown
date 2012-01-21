@@ -5,6 +5,7 @@ date: 2012-01-18 12:34
 text: 
   title: Down with SOPA!
 permalink: 2012/01/down-with-sopa
+source: 
 ---
 
 Yesterday, I made this site redirect to [SOPA Strike](http://sopastrike.com/strike) in opposition of SOPA (Stop Online Piracy Act) and PIPA (Protect IP Act). I am vehemently opposed to such draconian, broad bills such as these.

@@ -133,7 +133,9 @@ task :new_post, :type, :permalink do |t, args|
     end
     
     post.puts "permalink: #{time.strftime("%Y/%m")}/#{args.permalink}"
-    
+    post.puts "source: "
+    post.puts "  title: "
+    post.puts "  url: "
     post.puts "---"
   end
   

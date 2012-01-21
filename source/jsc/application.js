@@ -1,5 +1,5 @@
-$(document).ready(function(){
-    $("article.video header").fitVids();
+$(document).ready(function() {
+	$("article.video header").fitVids();
 });
 
-$('audio,video').mediaelementplayer();
+$("audio,video").mediaelementplayer();

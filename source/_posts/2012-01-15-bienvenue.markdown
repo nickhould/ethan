@@ -5,6 +5,7 @@ date: 2012-01-15 12:30
 text: 
   title: Bienvenue!
 permalink: 2012/01/bienvenue
+source: 
 ---
 
 After about six months, countless designs, and head-desking, I've finally created a (functioning) design that I actually like. It's running on a modifed version of [Octopress](http://octopress.org/) that allows me to [tumblelog](http://kottke.org/05/10/tumblelogs).

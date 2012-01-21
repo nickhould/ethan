@@ -8,4 +8,5 @@ quote:
   source: |
     [Alexis Ohanian](http://wilwheaton.typepad.com/wwdnbackup/2012/01/today-the-us-senate-is-considering-legislation-that-would-destroy-the-free-and-open-internet.html)
 permalink: 2012/01/ohanian-sopa
+source: 
 ---

@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-01-21T09:43:43-05:00</updated>
+  <updated>2012-01-21T11:17:23-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[audio]]></title>
+    
+    <link href="http://ethan.heroku.com2012/01/the-shins-simple-song"/>
+    <updated>2012-01-21T10:53:00-05:00</updated>
+    <id>http://ethan.heroku.com2012/01/the-shins-simple-song</id>
+    <content type="html"><![CDATA[<p>The Shins&#8217; new album <em>Port of Morrow</em> is being released soon, but in the meantime they&#8217;ve released an excellent track <em>Simple Song</em>!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[video]]></title>
+    
+    <link href="http://ethan.heroku.com2012/01/moonrise-kingdom"/>
+    <updated>2012-01-21T10:46:00-05:00</updated>
+    <id>http://ethan.heroku.com2012/01/moonrise-kingdom</id>
+    <content type="html"><![CDATA[<p>Wes Anderson&#8217;s new film <em>Moonrise Kingdom</em> looks to be a milder version of <em>Submarine</em>. I can’t wait to see it.</p>
+]]></content>
+  </entry>
   
   <entry>
   	

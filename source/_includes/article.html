@@ -24,6 +24,10 @@
 	</header>
 	<section class="instapaper_body">
 		{{ content }}
+		
+		{% if page.source.url %}
+			<p class="source">via <a href="{{ page.source.url }}">{{ page.source.title }}</a></p>
+		{% endif %}
 	</section>
 	<footer>
 		<p>{% include post/date.html %}{{ time }}</p>
