@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-01-21T20:25:05-05:00</updated>
+  <updated>2012-01-21T20:37:27-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[link]]></title>
+    
+    <link href="http://ethan.heroku.com2012/01/ice-cold-colbeert"/>
+    <updated>2012-01-21T20:33:00-05:00</updated>
+    <id>http://ethan.heroku.com2012/01/ice-cold-colbeert</id>
+    <content type="html"><![CDATA[<p><img src="http://fuzzco.com/wp-content/uploads/2012/01/41.jpg" alt="Ice Cold Colbeert" /></p>
+
+<p><a href="http://fuzzco.com">Fuzzco</a> created some labels for the fictional beer &#8220;Colbeert&#8221;.</p>
+]]></content>
+  </entry>
   
   <entry>
   	
