@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-01-21T20:43:10-05:00</updated>
+  <updated>2012-01-21T21:02:29-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -19,11 +19,18 @@
     
     <link href="http://ethan.heroku.com2012/01/ice-cold-colbeert"/>
     <updated>2012-01-21T20:33:00-05:00</updated>
-    <id>http://ethan.heroku.com2012/01/ice-cold-colbeert</id>
-    <content type="html"><![CDATA[<p><img src="http://fuzzco.com/wp-content/uploads/2012/01/41.jpg" alt="Ice Cold Colbeert" /></p>
+    <id>http://ethan.heroku.com/2012/01/ice-cold-colbeert</id>
+    <content type="html">
+      <![CDATA[
+        
+          <h1><a href="http://fuzzco.com/2012/01/20/ice-cold-colbeert/">Ice Cold Colbeert &rarr;</a></h1>
+        
+      ]]>
+      <![CDATA[<p><img src="http://fuzzco.com/wp-content/uploads/2012/01/41.jpg" alt="Ice Cold Colbeert" /></p>
 
 <p><a href="http://fuzzco.com">Fuzzco</a> created some labels for the fictional beer &#8220;Colbeert&#8221;.</p>
-]]></content>
+]]>
+    </content>
   </entry>
   
   <entry>
@@ -32,9 +39,16 @@
     
     <link href="http://ethan.heroku.com2012/01/the-shins-simple-song"/>
     <updated>2012-01-21T10:53:00-05:00</updated>
-    <id>http://ethan.heroku.com2012/01/the-shins-simple-song</id>
-    <content type="html"><![CDATA[<p>The Shins&#8217; new album <em>Port of Morrow</em> is being released soon, but in the meantime they&#8217;ve released an excellent track <em>Simple Song</em>!</p>
-]]></content>
+    <id>http://ethan.heroku.com/2012/01/the-shins-simple-song</id>
+    <content type="html">
+      <![CDATA[
+        
+          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/Simple%20Song%20-%20The%20Shins.mp3">http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/Simple%20Song%20-%20The%20Shins.mp3</a></p>
+        
+      ]]>
+      <![CDATA[<p>The Shins&#8217; new album <em>Port of Morrow</em> is being released soon, but in the meantime they&#8217;ve released an excellent track <em>Simple Song</em>!</p>
+]]>
+    </content>
   </entry>
   
   <entry>
@@ -43,9 +57,14 @@
     
     <link href="http://ethan.heroku.com2012/01/moonrise-kingdom"/>
     <updated>2012-01-21T10:46:00-05:00</updated>
-    <id>http://ethan.heroku.com2012/01/moonrise-kingdom</id>
-    <content type="html"><![CDATA[<p>Wes Anderson&#8217;s new film <em>Moonrise Kingdom</em> looks to be a milder version of <em>Submarine</em>. I can’t wait to see it.</p>
-]]></content>
+    <id>http://ethan.heroku.com/2012/01/moonrise-kingdom</id>
+    <content type="html">
+      <![CDATA[
+        
+      ]]>
+      <![CDATA[<p>Wes Anderson&#8217;s new film <em>Moonrise Kingdom</em> looks to be a milder version of <em>Submarine</em>. I can’t wait to see it.</p>
+]]>
+    </content>
   </entry>
   
   <entry>
@@ -54,9 +73,14 @@
     
     <link href="http://ethan.heroku.com2012/01/madeon-teaser-pt-1"/>
     <updated>2012-01-21T09:42:00-05:00</updated>
-    <id>http://ethan.heroku.com2012/01/madeon-teaser-pt-1</id>
-    <content type="html"><![CDATA[<p>This video was released a while ago, but it&#8217;s still very good! I can&#8217;t wait for Madeon to release <em>Icarus</em>!</p>
-]]></content>
+    <id>http://ethan.heroku.com/2012/01/madeon-teaser-pt-1</id>
+    <content type="html">
+      <![CDATA[
+        
+      ]]>
+      <![CDATA[<p>This video was released a while ago, but it&#8217;s still very good! I can&#8217;t wait for Madeon to release <em>Icarus</em>!</p>
+]]>
+    </content>
   </entry>
   
   <entry>
@@ -65,9 +89,16 @@
     
     <link href="http://ethan.heroku.com2012/01/epcot-japan-pavilion"/>
     <updated>2012-01-21T00:09:00-05:00</updated>
-    <id>http://ethan.heroku.com2012/01/epcot-japan-pavilion</id>
-    <content type="html"><![CDATA[<p>The view from Epcot&#8217;s Japan Pavilion.</p>
-]]></content>
+    <id>http://ethan.heroku.com/2012/01/epcot-japan-pavilion</id>
+    <content type="html">
+      <![CDATA[
+        
+          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/japan-pavilion.jpg"><img src="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/japan-pavilion.jpg" /></a></p>
+        
+      ]]>
+      <![CDATA[<p>The view from Epcot&#8217;s Japan Pavilion.</p>
+]]>
+    </content>
   </entry>
   
   <entry>
@@ -76,9 +107,16 @@
     
     <link href="http://ethan.heroku.com2012/01/radiohead-jaime-xx"/>
     <updated>2012-01-20T12:47:00-05:00</updated>
-    <id>http://ethan.heroku.com2012/01/radiohead-jaime-xx</id>
-    <content type="html"><![CDATA[<p>Jaime XX released a third rework of Radiohead&#8217;s <em>Bloom</em>.</p>
-]]></content>
+    <id>http://ethan.heroku.com/2012/01/radiohead-jaime-xx</id>
+    <content type="html">
+      <![CDATA[
+        
+          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/Radiohead%20-%20Bloom%20%28Jaime%20XX%20Rework%2C%20Part%203%29.mp3">http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/Radiohead%20-%20Bloom%20%28Jaime%20XX%20Rework%2C%20Part%203%29.mp3</a></p>
+        
+      ]]>
+      <![CDATA[<p>Jaime XX released a third rework of Radiohead&#8217;s <em>Bloom</em>.</p>
+]]>
+    </content>
   </entry>
   
   <entry>
@@ -87,9 +125,16 @@
     
     <link href="http://ethan.heroku.com2012/01/internet-blackout-sopa-affects"/>
     <updated>2012-01-19T20:31:00-05:00</updated>
-    <id>http://ethan.heroku.com2012/01/internet-blackout-sopa-affects</id>
-    <content type="html"><![CDATA[<p><a href="http://www.propublica.org/nerds/item/sopa-opera-update">ProPublica</a> posted an interesting graphic showing how yesterday&#8217;s Internet blackout affected support of SOPA in Congress.</p>
-]]></content>
+    <id>http://ethan.heroku.com/2012/01/internet-blackout-sopa-affects</id>
+    <content type="html">
+      <![CDATA[
+        
+          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/sopa-chart.jpg"><img src="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/sopa-chart.jpg" /></a></p>
+        
+      ]]>
+      <![CDATA[<p><a href="http://www.propublica.org/nerds/item/sopa-opera-update">ProPublica</a> posted an interesting graphic showing how yesterday&#8217;s Internet blackout affected support of SOPA in Congress.</p>
+]]>
+    </content>
   </entry>
   
   <entry>
@@ -98,9 +143,21 @@
     
     <link href="http://ethan.heroku.com2012/01/ohanian-sopa"/>
     <updated>2012-01-18T15:11:00-05:00</updated>
-    <id>http://ethan.heroku.com2012/01/ohanian-sopa</id>
-    <content type="html"><![CDATA[
-]]></content>
+    <id>http://ethan.heroku.com/2012/01/ohanian-sopa</id>
+    <content type="html">
+      <![CDATA[
+        
+          <blockquote>
+            Why is it that when Republicans and Democrats need to solve the budget and the deficit, there’s deadlock, but when Hollywood lobbyists pay them $94 million dollars to write legislation, people from both sides of the aisle line up to co-sponsor it?
+
+            [Alexis Ohanian](http://wilwheaton.typepad.com/wwdnbackup/2012/01/today-the-us-senate-is-considering-legislation-that-would-destroy-the-free-and-open-internet.html)
+
+          </blockquote>
+        
+      ]]>
+      <![CDATA[
+]]>
+    </content>
   </entry>
   
   <entry>
@@ -109,8 +166,12 @@
     
     <link href="http://ethan.heroku.com2012/01/down-with-sopa"/>
     <updated>2012-01-18T12:34:00-05:00</updated>
-    <id>http://ethan.heroku.com2012/01/down-with-sopa</id>
-    <content type="html"><![CDATA[<p>Yesterday, I made this site redirect to <a href="http://sopastrike.com/strike">SOPA Strike</a> in opposition of SOPA (Stop Online Piracy Act) and PIPA (Protect IP Act). I am vehemently opposed to such draconian, broad bills such as these.</p>
+    <id>http://ethan.heroku.com/2012/01/down-with-sopa</id>
+    <content type="html">
+      <![CDATA[
+        
+      ]]>
+      <![CDATA[<p>Yesterday, I made this site redirect to <a href="http://sopastrike.com/strike">SOPA Strike</a> in opposition of SOPA (Stop Online Piracy Act) and PIPA (Protect IP Act). I am vehemently opposed to such draconian, broad bills such as these.</p>
 
 <p>If you don&#8217;t know, SOPA and PIPA aim to shut down sites that are infringing upon American intellectual property such as music, movies, photos, and books.</p>
 
@@ -128,7 +189,8 @@
 censor the Internet as they please, putting us on a similar level as China and Iran. If you can, express your opposition on social networking sites or even call your representatives. Help stop this bill from becoming a horrible, draconian law.</p>
 
 <p>If you want to learn more, <a href="http://www.theverge.com/2011/12/16/2641391/the-stop-online-piracy-act-the-sopa-story-so-far">The Verge has an excellent collection of posts about SOPA and PIPA</a>. Also, <a href="http://blog.lizardwrangler.com/2012/01/17/pipasopa-and-why-you-should-care/">Mozilla has a great post in layman&#8217;s terms on why SOPA is bad for the Internet</a>.</p>
-]]></content>
+]]>
+    </content>
   </entry>
   
   <entry>
@@ -137,9 +199,16 @@ censor the Internet as they please, putting us on a similar level as China and I
     
     <link href="http://ethan.heroku.com2012/01/wombats-techno-fan-afrojack"/>
     <updated>2012-01-16T15:54:00-05:00</updated>
-    <id>http://ethan.heroku.com2012/01/wombats-techno-fan-afrojack</id>
-    <content type="html"><![CDATA[<p>The Wombats track <em>Techno Fan</em> is great by itself, but the Afrojack version is better!</p>
-]]></content>
+    <id>http://ethan.heroku.com/2012/01/wombats-techno-fan-afrojack</id>
+    <content type="html">
+      <![CDATA[
+        
+          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/Techno%20Fan%20%28Afrojack%20Extended%20Club%20Remix%29.mp3">http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/Techno%20Fan%20%28Afrojack%20Extended%20Club%20Remix%29.mp3</a></p>
+        
+      ]]>
+      <![CDATA[<p>The Wombats track <em>Techno Fan</em> is great by itself, but the Afrojack version is better!</p>
+]]>
+    </content>
   </entry>
   
   <entry>
@@ -148,9 +217,14 @@ censor the Internet as they please, putting us on a similar level as China and I
     
     <link href="http://ethan.heroku.com2012/01/shit-nobody-says"/>
     <updated>2012-01-16T15:00:00-05:00</updated>
-    <id>http://ethan.heroku.com2012/01/shit-nobody-says</id>
-    <content type="html"><![CDATA[<p>After all of the &#8220;Shit X Says&#8221;, Tripp Crosby and Tyler Stanton come up with a bunch of shit you&#8217;ll never hear.</p>
-]]></content>
+    <id>http://ethan.heroku.com/2012/01/shit-nobody-says</id>
+    <content type="html">
+      <![CDATA[
+        
+      ]]>
+      <![CDATA[<p>After all of the &#8220;Shit X Says&#8221;, Tripp Crosby and Tyler Stanton come up with a bunch of shit you&#8217;ll never hear.</p>
+]]>
+    </content>
   </entry>
   
   <entry>
@@ -159,9 +233,16 @@ censor the Internet as they please, putting us on a similar level as China and I
     
     <link href="http://ethan.heroku.com2012/01/spaceship-earth"/>
     <updated>2012-01-16T09:17:00-05:00</updated>
-    <id>http://ethan.heroku.com2012/01/spaceship-earth</id>
-    <content type="html"><![CDATA[<p>A picture I took last April at Epcot in Walt Disney World. This was taken just after IllumiNations: Reflections of Earth ended.</p>
-]]></content>
+    <id>http://ethan.heroku.com/2012/01/spaceship-earth</id>
+    <content type="html">
+      <![CDATA[
+        
+          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/spaceship-earth.jpg"><img src="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/spaceship-earth.jpg" /></a></p>
+        
+      ]]>
+      <![CDATA[<p>A picture I took last April at Epcot in Walt Disney World. This was taken just after IllumiNations: Reflections of Earth ended.</p>
+]]>
+    </content>
   </entry>
   
   <entry>
@@ -170,9 +251,14 @@ censor the Internet as they please, putting us on a similar level as China and I
     
     <link href="http://ethan.heroku.com2012/01/kitchen-synthesizer"/>
     <updated>2012-01-15T21:09:00-05:00</updated>
-    <id>http://ethan.heroku.com2012/01/kitchen-synthesizer</id>
-    <content type="html"><![CDATA[<p>This guy made a synthesizer out of household kitchen dishware like bowls, plates, and pans with leftover electronic equipment. Wow.</p>
-]]></content>
+    <id>http://ethan.heroku.com/2012/01/kitchen-synthesizer</id>
+    <content type="html">
+      <![CDATA[
+        
+      ]]>
+      <![CDATA[<p>This guy made a synthesizer out of household kitchen dishware like bowls, plates, and pans with leftover electronic equipment. Wow.</p>
+]]>
+    </content>
   </entry>
   
   <entry>
@@ -181,15 +267,20 @@ censor the Internet as they please, putting us on a similar level as China and I
     
     <link href="http://ethan.heroku.com2012/01/bienvenue"/>
     <updated>2012-01-15T12:30:00-05:00</updated>
-    <id>http://ethan.heroku.com2012/01/bienvenue</id>
-    <content type="html"><![CDATA[<p>After about six months, countless designs, and head-desking, I&#8217;ve finally created a (functioning) design that I actually like. It&#8217;s running on a modifed version of <a href="http://octopress.org/">Octopress</a> that allows me to <a href="http://kottke.org/05/10/tumblelogs">tumblelog</a>.</p>
+    <id>http://ethan.heroku.com/2012/01/bienvenue</id>
+    <content type="html">
+      <![CDATA[
+        
+      ]]>
+      <![CDATA[<p>After about six months, countless designs, and head-desking, I&#8217;ve finally created a (functioning) design that I actually like. It&#8217;s running on a modifed version of <a href="http://octopress.org/">Octopress</a> that allows me to <a href="http://kottke.org/05/10/tumblelogs">tumblelog</a>.</p>
 
 <p>I&#8217;ve decided against importing my old Tumblr posts. Mainly because Tumblr&#8217;s API is dumb (it uses XML with inconsistent tags!), but also because I want to start fresh. There are a lot of really terrible, non-informative posts there.</p>
 
 <p>The code for this site and the theme are <a href="http://github.com/eturk/ethan">on Github</a>. The <a href="https://github.com/eturk/ethan/tree/master/.themes/ethan">theme</a> is under the MIT License, so you&#8217;re free to do whatever you wish with it.</p>
 
 <p>I may or may not add comments to this site. In the meantime, feel free to talk to me on Twitter as <a href="http://twitter.com/ethnt">@ethnt</a>.</p>
-]]></content>
+]]>
+    </content>
   </entry>
   
   <entry>
@@ -198,8 +289,12 @@ censor the Internet as they please, putting us on a similar level as China and I
     
     <link href="http://ethan.heroku.com2012/01/doctor-who-the-movie"/>
     <updated>2012-01-15T11:59:00-05:00</updated>
-    <id>http://ethan.heroku.com2012/01/doctor-who-the-movie</id>
-    <content type="html"><![CDATA[<p>io9 reports today that <a href="http://io9.com/5859431/a-new-doctor-who-movie-from-the-director-of-the-harry-potter-films">there are rumors that <em>Harry Potter</em> director David Yates could direct a movie adaptation of <em>Doctor Who</em></a>. What&#8253;</p>
+    <id>http://ethan.heroku.com/2012/01/doctor-who-the-movie</id>
+    <content type="html">
+      <![CDATA[
+        
+      ]]>
+      <![CDATA[<p>io9 reports today that <a href="http://io9.com/5859431/a-new-doctor-who-movie-from-the-director-of-the-harry-potter-films">there are rumors that <em>Harry Potter</em> director David Yates could direct a movie adaptation of <em>Doctor Who</em></a>. What&#8253;</p>
 
 <p>I believe a film such as this, if done right, could bring to the television show an audience that it would never get on it&#8217;s own. I, like io9&#8217;s Charlie Anders, want <em>Doctor Who</em> to be for everyone, not just it&#8217;s life-long fans.</p>
 
@@ -216,7 +311,8 @@ censor the Internet as they please, putting us on a similar level as China and I
 <p>I trust David Yates with the series. I love what he did with <em>Harry Potter</em>, and he was true to the books. I think he could make a great film while being true to the essence of the show and its&#8217; fans.</p>
 
 <p>Also, how awesome would it be to have an actor like Nathan Fillion as the Doctor?</p>
-]]></content>
+]]>
+    </content>
   </entry>
   
 </feed>
