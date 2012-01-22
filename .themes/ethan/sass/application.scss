@@ -62,8 +62,6 @@ blockquote {
 	color: #444;
 	font-size: 1.15em;
 	font-style: italic;
-	border-left: 3px solid #e0e0e0;
-	padding-left: 1em;
 	margin: 1.25em 0;
 	
 	cite {
@@ -73,7 +71,6 @@ blockquote {
 			margin-top: 1em;
 			padding-bottom: 0;
 			position: relative;
-			left: -10px;
 		}
 	}
 }
@@ -240,7 +237,7 @@ article + article {
 
 footer#pagination {
 	margin-top: 10em;
-	max-width: 560px;
+	max-width: 760px;
 	
 	p {
 		display: inline-block;
@@ -257,6 +254,11 @@ footer#pagination {
 	
 	p#newer {
 		float: right;
+	}
+	
+	p#number {
+		position: relative;
+		left: -20px;
 	}
 }
 
