@@ -73,11 +73,11 @@
         <lastmod>2012-01-23T16:48:12-05:00</lastmod>
     </url>
     <url>
-        <loc>http://ethan.heroku.com/profile/</loc>
-        <lastmod>2012-01-23T16:41:31-05:00</lastmod>
-    </url>
-    <url>
         <loc>http://ethan.heroku.com/</loc>
         <lastmod>2012-01-23T16:48:12-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ethan.heroku.com/hello/</loc>
+        <lastmod>2012-01-23T16:41:31-05:00</lastmod>
     </url>
 </urlset>
