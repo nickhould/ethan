@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-01-22T20:40:49-05:00</updated>
+  <updated>2012-01-23T16:41:48-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[video]]></title>
+    
+    <link href="http://ethan.heroku.com2012/01/mackine-dl1608"/>
+    <updated>2012-01-23T16:39:00-05:00</updated>
+    <id>http://ethan.heroku.com/2012/01/mackine-dl1608</id>
+    <content type="html">
+      <![CDATA[
+        
+      ]]>
+      <![CDATA[<p>Mackie released their DL1608 wireless iPad mixer a few days ago at NAMM. Holy audio porn, Batman!</p>
+]]>
+    </content>
+  </entry>
   
   <entry>
   	
