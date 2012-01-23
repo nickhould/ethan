@@ -11,4 +11,4 @@ source:
   url: 
 ---
 
-Mackie released their DL1608 wireless iPad mixer a few days ago at NAMM. Not sure what's going on with this rather... interesting... video, but that mixer looks so amazing.
+Mackie announced their DL1608 wireless iPad mixer a few days ago at NAMM. Not sure what's going on with this rather... interesting... video, but that mixer looks so amazing.
