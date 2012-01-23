@@ -231,6 +231,12 @@ article + article {
 	}
 }
 
+.photo, .audio, .video {
+	header {
+		margin-bottom: 1.25em;
+	}
+}
+
 .link h2 a:after {
 	content: " \2192";
 }
