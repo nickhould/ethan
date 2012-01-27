@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-01-26T20:10:49-05:00</updated>
+  <updated>2012-01-26T20:31:27-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[video]]></title>
+    
+    <link href="http://ethan.heroku.com2012/01/henson-1963-robot"/>
+    <updated>2012-01-26T20:28:00-05:00</updated>
+    <id>http://ethan.heroku.com/2012/01/henson-1963-robot</id>
+    <content type="html">
+      <![CDATA[
+        
+      ]]>
+      <![CDATA[<p>Jim Henson was hired to do an educational video for The Bell System in 1963. Even then, his trademark wit was there.</p>
+]]>
+    </content>
+  </entry>
   
   <entry>
   	
