@@ -62,7 +62,7 @@ blockquote {
 	color: #444;
 	font-size: 1.15em;
 	font-style: italic;
-	margin: 1.25em 0;
+	margin: 1.25em 0 3em;
 	
 	cite {
 		p {
@@ -134,7 +134,7 @@ p + p {
 }
 
 #contain > header {
-	padding-bottom: 4em;
+	padding-bottom: 5em;
 	text-align: center;
 }
 
@@ -190,6 +190,10 @@ article {
 		}
 	}
 	
+	.livefyre {
+		margin-top: 1.75em;
+	}
+	
 	.single {
 		margin-bottom: 0;
 		padding-bottom: 0;
@@ -197,7 +201,7 @@ article {
 }
 
 article + article {
-	padding-top: 10em;
+	padding-top: 12em;
 }
 
 .text {
@@ -232,6 +236,12 @@ article + article {
 	
 	blockquote {
 		margin: 1.75em 0;
+	}
+	
+	.livefyre {
+		p {
+			text-indent: 0 !important;
+		}
 	}
 }
 
