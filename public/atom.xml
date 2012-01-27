@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-01-27T13:09:08-05:00</updated>
+  <updated>2012-01-27T14:10:41-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[quote]]></title>
+    
+    <link href="http://ethan.heroku.com2012/01/ordered-and-elegant-universe-adam-savage"/>
+    <updated>2012-01-27T14:08:00-05:00</updated>
+    <id>http://ethan.heroku.com/2012/01/ordered-and-elegant-universe-adam-savage</id>
+    <content type="html">
+      <![CDATA[
+        
+          <blockquote>
+            The idea of an ordered and elegant universe is a lovely one. But you don&#8217;t need religion to appreciate the ordered existence. It&#8217;s not just an idea. It&#8217;s reality. We&#8217;re discovering the hidden orders of the universe every day. The inverse square law of gravitation is amazing. Fractals, the theory of relativity, the genome: these are magnificently beautiful constructs.
+
+            Adam Savage
+
+          </blockquote>
+        
+      ]]>
+      <![CDATA[
+]]>
+    </content>
+  </entry>
   
   <entry>
   	
@@ -363,22 +386,6 @@ censor the Internet as they please, putting us on a similar level as China and I
         
       ]]>
       <![CDATA[<p>A picture I took last April at Epcot in Walt Disney World. This was taken just after IllumiNations: Reflections of Earth ended.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[video]]></title>
-    
-    <link href="http://ethan.heroku.com2012/01/kitchen-synthesizer"/>
-    <updated>2012-01-15T21:09:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/01/kitchen-synthesizer</id>
-    <content type="html">
-      <![CDATA[
-        
-      ]]>
-      <![CDATA[<p>This guy made a synthesizer out of household kitchen dishware like bowls, plates, and pans with leftover electronic equipment. Wow.</p>
 ]]>
     </content>
   </entry>
