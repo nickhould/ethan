@@ -1,5 +1,5 @@
 /*
-	
+	Ethan Turkeltaub
 		file: css/application.css
 */
 
@@ -14,10 +14,15 @@ $secondary: #1CAD54;
 $lighter-primary: #66E898;
 $lighter-secondary: #42E37F;
 
+$nav: #698066;
+
 /*
 	= Appendix
 		I. Media Queries
-		II.
+		II. Universal
+		III. Header
+		IV. Main
+		V. Footer
 */
 
 /*
@@ -45,7 +50,7 @@ $lighter-secondary: #42E37F;
 }
 
 /*
-	II. 
+	II. Universal
 */
 
 body {
@@ -53,37 +58,6 @@ body {
 	color: #333;
 	font: 300 15px/1.75em $calluna, serif;
 	text-align: center;
-}
-
-body > nav {
-	background: $lighter-secondary;
-	font-family: $calluna-sans;
-	font-weight: bold;
-	text-transform: uppercase;
-	width: 100%;
-	
-	a {
-		color: #fafafa;
-		
-		&:hover {
-			color: #f0f0f0;
-		}
-	}
-	
-	ul {
-		padding: 0;
-		max-width: 560px;
-		margin: 0 auto;
-		
-		li {
-			display: inline-block;
-			padding-right: 1.5em;
-			
-			&:last-child {
-				padding-right: 0;
-			}
-		}
-	}
 }
 
 a {
@@ -110,10 +84,6 @@ blockquote {
 			position: relative;
 		}
 	}
-}
-
-ul, ol {
-	padding: 1.75em 0;
 }
 
 h1 {
@@ -166,8 +136,52 @@ p + p {
 	padding-top: 1.75em;
 }
 
+ul, ol {
+	padding: 1.75em 0;
+}
+
 #contain {
 	margin: 4em 0;
+}
+
+
+/*
+	III. Header
+*/
+
+body > nav {
+	background: $nav;
+	font-family: $calluna-sans;
+	font-weight: bold;
+	text-transform: uppercase;
+	width: 100%;
+	
+	&:hover {
+		background: $lighter-primary;
+	}
+	
+	a {
+		color: #fafafa;
+		
+		&:hover {
+			color: #f0f0f0;
+		}
+	}
+	
+	ul {
+		padding: 0;
+		max-width: 560px;
+		margin: 0 auto;
+		
+		li {
+			display: inline-block;
+			padding-right: 1.5em;
+			
+			&:last-child {
+				padding-right: 0;
+			}
+		}
+	}
 }
 
 #contain > header {
@@ -177,7 +191,7 @@ p + p {
 
 
 /*
-	III. Main
+	IV. Main
 */
 
 article {
@@ -244,6 +258,16 @@ article + article {
 .text {
 	text-align: justify;
 	
+	blockquote {
+		margin: 1.75em 0;
+	}
+	
+	blockquote, br, ol, ul {
+		& + p {
+			text-indent: 0 !important;
+		}
+	}
+
 	h2 {
 		text-align: center !important;
 	}
@@ -251,12 +275,6 @@ article + article {
 	h3, h4, h5, h6 {
 		margin-top: 1.75em;
 		
-		& + p {
-			text-indent: 0 !important;
-		}
-	}
-	
-	ul, ol, blockquote, br {
 		& + p {
 			text-indent: 0 !important;
 		}
@@ -271,25 +289,11 @@ article + article {
 		padding: 0;
 	}
 	
-	blockquote {
-		margin: 1.75em 0;
-	}
-	
 	.livefyre {
 		p {
 			text-indent: 0 !important;
 		}
 	}
-}
-
-.photo, .audio, .video {
-	header {
-		margin-bottom: 1.25em;
-	}
-}
-
-.link h2 a:after {
-	content: " \2192";
 }
 
 footer#pagination {
@@ -319,8 +323,19 @@ footer#pagination {
 	}
 }
 
+.link h2 a:after {
+	content: " \2192";
+}
+
+.photo, .audio, .video {
+	header {
+		margin-bottom: 1.25em;
+	}
+}
+
+
 /*
-	IV. Footer
+	V. Footer
 */
 
 #contain > footer {
@@ -328,3 +343,4 @@ footer#pagination {
 	padding-top: 1.5em;
 	border-top: 1px solid #e0e0e0;
 }
+
