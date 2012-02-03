@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-02-01T19:45:42-05:00</updated>
+  <updated>2012-02-02T19:07:47-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[video]]></title>
+    
+    <link href="http://ethan.heroku.com2012/02/alaskan-wakeboarding"/>
+    <updated>2012-02-02T19:05:00-05:00</updated>
+    <id>http://ethan.heroku.com/2012/02/alaskan-wakeboarding</id>
+    <content type="html">
+      <![CDATA[
+        
+      ]]>
+      <![CDATA[<p>Kiteboarder Andy Hurdman goes for a leisurely wakeboard ride through an ice field in Alaska.</p>
+]]>
+    </content>
+  </entry>
   
   <entry>
   	
@@ -348,29 +364,6 @@
         
       ]]>
       <![CDATA[<p><a href="http://www.propublica.org/nerds/item/sopa-opera-update">ProPublica</a> posted an interesting graphic showing how yesterday&#8217;s Internet blackout affected support of SOPA in Congress.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[quote]]></title>
-    
-    <link href="http://ethan.heroku.com2012/01/ohanian-sopa"/>
-    <updated>2012-01-18T15:11:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/01/ohanian-sopa</id>
-    <content type="html">
-      <![CDATA[
-        
-          <blockquote>
-            Why is it that when Republicans and Democrats need to solve the budget and the deficit, there’s deadlock, but when Hollywood lobbyists pay them $94 million dollars to write legislation, people from both sides of the aisle line up to co-sponsor it?
-
-            [Alexis Ohanian](http://wilwheaton.typepad.com/wwdnbackup/2012/01/today-the-us-senate-is-considering-legislation-that-would-destroy-the-free-and-open-internet.html)
-
-          </blockquote>
-        
-      ]]>
-      <![CDATA[
 ]]>
     </content>
   </entry>
