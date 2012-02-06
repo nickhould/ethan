@@ -107,6 +107,10 @@ task :new_post, :type, :permalink do |t, args|
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
     
     case args.type
+    when "generic"
+      post.puts "generic: "
+      post.puts "  header: |"
+      post.puts "    "
     when "text"
       post.puts "text: "
       post.puts "  title: "

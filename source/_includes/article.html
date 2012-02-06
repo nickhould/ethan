@@ -1,6 +1,8 @@
 <article class="{{ page.type }} row {% if page.single == true %}single{% endif %}">
 	<header>
 		{% case page.type %}
+			{% when "generic" %}
+				{{ page.generic.header }}
 			{% when "text" %}
 				{% if page.text.title %}
 					<h2 class="instapaper_title"><a href="{{ root_url }}{{ page.url }}">{{ page.text.title }}</a></h2>
