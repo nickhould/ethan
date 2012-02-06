@@ -11,4 +11,4 @@ source:
   url: 
 ---
 
-I love the 1972 [animated television special](http://en.wikipedia.org/wiki/The_Lorax_(TV_special)), so I have high hopes for this film, _The Lorax_. I'm so enthusiastic about this that I'll let it slide that they've cast Zac Efron.
+I love the 1972 animated television special, so I have high hopes for this film, _The Lorax_. I'm so enthusiastic about this that I'll let it slide that they've cast Zac Efron.
