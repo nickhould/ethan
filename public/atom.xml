@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-02-05T19:38:56-05:00</updated>
+  <updated>2012-02-05T20:08:04-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -17,6 +17,22 @@
   	
     	<title type="html"><![CDATA[video]]></title>
     
+    <link href="http://ethan.heroku.com2012/02/the-avengers-trailer"/>
+    <updated>2012-02-05T20:06:00-05:00</updated>
+    <id>http://ethan.heroku.com/2012/02/the-avengers-trailer</id>
+    <content type="html">
+      <![CDATA[
+        
+      ]]>
+      <![CDATA[<p>You know, I may be enthusiastic about <em>The Lorax</em>, but Marvel&#8217;s <em>The Avengers</em> really looks awesome.</p>
+]]>
+    </content>
+  </entry>
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[video]]></title>
+    
     <link href="http://ethan.heroku.com2012/02/the-lorax-trailer"/>
     <updated>2012-02-05T19:30:00-05:00</updated>
     <id>http://ethan.heroku.com/2012/02/the-lorax-trailer</id>
@@ -24,7 +40,7 @@
       <![CDATA[
         
       ]]>
-      <![CDATA[<p>I love the 1972 <a href="http://en.wikipedia.org/wiki/The_Lorax_(TV_special">animated television special</a>, so I have high hopes for this film, <em>The Lorax</em>. I&#8217;m so enthusiastic about this that I&#8217;ll let it slide that they&#8217;ve cast Zac Efron.</p>
+      <![CDATA[<p>I love the 1972 animated television special, so I have high hopes for this film, <em>The Lorax</em>. I&#8217;m so enthusiastic about this that I&#8217;ll let it slide that they&#8217;ve cast Zac Efron.</p>
 ]]>
     </content>
   </entry>
@@ -344,24 +360,6 @@
         
       ]]>
       <![CDATA[<p>The view from Epcot&#8217;s Japan Pavilion.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[audio]]></title>
-    
-    <link href="http://ethan.heroku.com2012/01/radiohead-jaime-xx"/>
-    <updated>2012-01-20T12:47:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/01/radiohead-jaime-xx</id>
-    <content type="html">
-      <![CDATA[
-        
-          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/Radiohead%20-%20Bloom%20%28Jaime%20XX%20Rework%2C%20Part%203%29.mp3">http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/Radiohead%20-%20Bloom%20%28Jaime%20XX%20Rework%2C%20Part%203%29.mp3</a></p>
-        
-      ]]>
-      <![CDATA[<p>Jaime XX released a third rework of Radiohead&#8217;s <em>Bloom</em>.</p>
 ]]>
     </content>
   </entry>
