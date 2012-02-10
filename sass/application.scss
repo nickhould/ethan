@@ -69,6 +69,10 @@ a {
 	}
 }
 
+abbr {
+	border-bottom: 1px dotted #ccc;
+}
+
 blockquote {
 	color: #444;
 	font-size: 1.15em;
@@ -83,6 +87,22 @@ blockquote {
 			padding-bottom: 0;
 			position: relative;
 		}
+	}
+}
+
+code, pre {
+	font: 0.85em/1.25em "Anonymous Pro", Monaco, Courier New, Courier, monospace;
+}
+
+em {
+	font-style: italic;
+}
+
+figure {
+	margin: 1em 0 2em;
+	
+	figcaption {
+		font-style: italic;
 	}
 }
 
@@ -121,7 +141,7 @@ h3 {
 }
 
 h4 {
-	font-size: 1.05em;
+	font-size: 1em;
 }
 
 h5 {
@@ -136,8 +156,26 @@ p + p {
 	padding-top: 1.75em;
 }
 
+p > img + p {
+	text-indent: 0;
+}
+
+pre {
+	background: #fafafa !important;
+	padding: 1em;
+	margin: 1em 0 !important;
+
+	& + p {
+		text-indent: 0 !important;
+	}
+}
+
 ul, ol {
 	padding: 1.75em 0;
+}
+
+strong {
+	font-weight: bold;
 }
 
 #contain {
