@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-02-10T18:08:41-05:00</updated>
+  <updated>2012-02-16T16:03:49-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[link]]></title>
+    
+    <link href="http://ethan.heroku.com2012/02/dustin-curtis-on-web-standards"/>
+    <updated>2012-02-16T16:00:00-05:00</updated>
+    <id>http://ethan.heroku.com/2012/02/dustin-curtis-on-web-standards</id>
+    <content type="html">
+      <![CDATA[
+        
+          <h1><a href="http://dcurt.is/web-standards">Dustin Curtis on Web Standards &rarr;</a></h1>
+        
+      ]]>
+      <![CDATA[<p>Dustin Curtis hits the nail on the head with his critique of the W3C and CSS Working Group. I agree that, in this day in age, they move far too slow to create standards that are useful to anyone but vendors.</p>
+]]>
+    </content>
+  </entry>
   
   <entry>
   	
@@ -643,24 +661,6 @@ $ git push
       <![CDATA[<p><img src="http://fuzzco.com/wp-content/uploads/2012/01/41.jpg" alt="Ice Cold Colbeert" /></p>
 
 <p><a href="http://fuzzco.com">Fuzzco</a> created some labels for the fictional beer &#8220;Colbeert&#8221;.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[audio]]></title>
-    
-    <link href="http://ethan.heroku.com2012/01/the-shins-simple-song"/>
-    <updated>2012-01-21T10:53:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/01/the-shins-simple-song</id>
-    <content type="html">
-      <![CDATA[
-        
-          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/Simple%20Song%20-%20The%20Shins.mp3">http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/Simple%20Song%20-%20The%20Shins.mp3</a></p>
-        
-      ]]>
-      <![CDATA[<p>The Shins&#8217; new album <em>Port of Morrow</em> is being released soon, but in the meantime they&#8217;ve released an excellent track <em>Simple Song</em>!</p>
 ]]>
     </content>
   </entry>
