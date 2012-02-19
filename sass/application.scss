@@ -74,10 +74,12 @@ abbr {
 }
 
 blockquote {
+	border-left: 2px solid $lighter-secondary;
 	color: #444;
 	font-size: 1.15em;
 	font-style: italic;
 	margin: 1.25em 0 3em;
+	text-align: justify;
 	
 	cite {
 		p {
@@ -188,7 +190,7 @@ strong {
 */
 
 body > nav {
-	background: $lighter-primary;
+	background: #B8FAC3;
 	font-family: $calluna-sans;
 	font-weight: bold;
 	text-transform: uppercase;

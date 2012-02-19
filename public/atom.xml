@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-02-16T20:45:04-05:00</updated>
+  <updated>2012-02-19T10:18:34-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[audio]]></title>
+    
+    <link href="http://ethan.heroku.com2012/02/epcot-reflections-of-earth"/>
+    <updated>2012-02-19T10:12:00-05:00</updated>
+    <id>http://ethan.heroku.com/2012/02/epcot-reflections-of-earth</id>
+    <content type="html">
+      <![CDATA[
+        
+          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Disney%20Parks%20-%20Reflections%20of%20Earth.m4a">http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Disney%20Parks%20-%20Reflections%20of%20Earth.m4a</a></p>
+        
+      ]]>
+      <![CDATA[<p>At the end of every great day at Epcot in Walt Disney World is the award-winning fireworks, laser, and fountain show <a href="http://en.wikipedia.org/wiki/IllumiNations:_Reflections_of_Earth"><em>IllumiNations: Reflections of Earth</em></a>. It started in 1999 to celebrate the new millenuium but proved so popular that it continues to this day. The <a href="http://www.amazon.com/Walt-Disney-World-Millennium-Celebration/dp/B00001WRO3/ref=sr_1_1?ie=UTF8&amp;qid=1329664618&amp;sr=8-1">soundtrack</a> is wonderful, and it great for ambient music.</p>
+]]>
+    </content>
+  </entry>
   
   <entry>
   	
@@ -641,26 +659,6 @@ $ git push
         
       ]]>
       <![CDATA[<p>The late great <em>Who&#8217;s Line Is It Anyways?</em> with Robin Williams.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[link]]></title>
-    
-    <link href="http://ethan.heroku.com2012/01/ice-cold-colbeert"/>
-    <updated>2012-01-21T20:33:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/01/ice-cold-colbeert</id>
-    <content type="html">
-      <![CDATA[
-        
-          <h1><a href="http://fuzzco.com/2012/01/20/ice-cold-colbeert/">Ice Cold Colbeert &rarr;</a></h1>
-        
-      ]]>
-      <![CDATA[<p><img src="http://fuzzco.com/wp-content/uploads/2012/01/41.jpg" alt="Ice Cold Colbeert" /></p>
-
-<p><a href="http://fuzzco.com">Fuzzco</a> created some labels for the fictional beer &#8220;Colbeert&#8221;.</p>
 ]]>
     </content>
   </entry>
