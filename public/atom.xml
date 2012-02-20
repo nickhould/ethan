@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-02-19T10:24:47-05:00</updated>
+  <updated>2012-02-20T16:56:37-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[audio]]></title>
+    
+    <link href="http://ethan.heroku.com2012/02/epcot-entrance-medley"/>
+    <updated>2012-02-20T16:46:00-05:00</updated>
+    <id>http://ethan.heroku.com/2012/02/epcot-entrance-medley</id>
+    <content type="html">
+      <![CDATA[
+        
+          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Disney%20Parks%20-%20Epcot%20Entrance%20Area%20Loop.mp3">http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Disney%20Parks%20-%20Epcot%20Entrance%20Area%20Loop.mp3</a></p>
+        
+      ]]>
+      <![CDATA[<p>I&#8217;m in love with the entrance area background music loop for Epcot. It makes me feel like I&#8217;m walking past Spaceship Earth on my way to Innoventions!</p>
+]]>
+    </content>
+  </entry>
   
   <entry>
   	
@@ -643,22 +661,6 @@ $ git push
         
       ]]>
       <![CDATA[<p>Madeon&#8217;s upcoming track <em>Icarus</em> was featured on Pete Tong&#8217;s BBC Radio 1 show!</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[video]]></title>
-    
-    <link href="http://ethan.heroku.com2012/01/whos-line-robin-williams"/>
-    <updated>2012-01-22T20:11:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/01/whos-line-robin-williams</id>
-    <content type="html">
-      <![CDATA[
-        
-      ]]>
-      <![CDATA[<p>The late great <em>Who&#8217;s Line Is It Anyways?</em> with Robin Williams.</p>
 ]]>
     </content>
   </entry>
