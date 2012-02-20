@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-02-20T16:56:37-05:00</updated>
+  <updated>2012-02-20T17:40:40-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[link]]></title>
+    
+    <link href="http://ethan.heroku.com2012/02/the-oatmeal-why-piracy-exists"/>
+    <updated>2012-02-20T17:18:00-05:00</updated>
+    <id>http://ethan.heroku.com/2012/02/the-oatmeal-why-piracy-exists</id>
+    <content type="html">
+      <![CDATA[
+        
+          <h1><a href="http://theoatmeal.com/comics/game_of_thrones"><em>The Oatmeal</em> — Game of Thrones &rarr;</a></h1>
+        
+      ]]>
+      <![CDATA[<p><em>The Oatmeal</em> perfectly describes why piracy exists.</p>
+]]>
+    </content>
+  </entry>
   
   <entry>
   	
@@ -643,24 +661,6 @@ $ git push
         
       ]]>
       <![CDATA[<p>Mackie announced their DL1608 wireless iPad mixer a few days ago at NAMM. Not sure what&#8217;s going on with this rather&#8230; interesting&#8230; video, but that mixer looks so amazing.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[audio]]></title>
-    
-    <link href="http://ethan.heroku.com2012/01/madeon-icarus-pete-tong"/>
-    <updated>2012-01-22T20:39:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/01/madeon-icarus-pete-tong</id>
-    <content type="html">
-      <![CDATA[
-        
-          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/Madeon%20-%20Icarus%20%28Live%20on%20Pete%20Tong%29.mp3">http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/Madeon%20-%20Icarus%20%28Live%20on%20Pete%20Tong%29.mp3</a></p>
-        
-      ]]>
-      <![CDATA[<p>Madeon&#8217;s upcoming track <em>Icarus</em> was featured on Pete Tong&#8217;s BBC Radio 1 show!</p>
 ]]>
     </content>
   </entry>
