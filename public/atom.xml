@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-02-20T20:49:16-05:00</updated>
+  <updated>2012-02-21T16:37:10-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[audio]]></title>
+    
+    <link href="http://ethan.heroku.com2012/02/madeon-live-on-bbc-radio-1"/>
+    <updated>2012-02-21T16:35:00-05:00</updated>
+    <id>http://ethan.heroku.com/2012/02/madeon-live-on-bbc-radio-1</id>
+    <content type="html">
+      <![CDATA[
+        
+          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Madeon%20-%20Live%20on%20BBC%20Radio%201%20at%20Hull.mp3">http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Madeon%20-%20Live%20on%20BBC%20Radio%201%20at%20Hull.mp3</a></p>
+        
+      ]]>
+      <![CDATA[<p>Madeon performing a live set on BBC Radio 1 in Hull, UK.</p>
+]]>
+    </content>
+  </entry>
   
   <entry>
   	
@@ -650,22 +668,6 @@ $ git push
 <p>Google+ could have been a contender with the teen market. But with Google&#8217;s repeated refusal to allow 13- to 18-year-olds into the beginning of the beta, they essentially killed their chances with teens.</p>
 
 <p>I could also see some trouble with Path. The limit to 150 friends and lack of a desktop version will definitely shy people away. Yet I look forward to the time where I don&#8217;t even need to visit the increasingly terrible Facebook to catch up with friends.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[video]]></title>
-    
-    <link href="http://ethan.heroku.com2012/01/henson-1963-robot"/>
-    <updated>2012-01-26T20:28:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/01/henson-1963-robot</id>
-    <content type="html">
-      <![CDATA[
-        
-      ]]>
-      <![CDATA[<p>Jim Henson was hired to do an educational video for The Bell System in 1963. Even then, his trademark wit was there.</p>
 ]]>
     </content>
   </entry>
