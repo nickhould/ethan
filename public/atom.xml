@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-02-20T17:40:40-05:00</updated>
+  <updated>2012-02-20T20:27:48-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[quote]]></title>
+    
+    <link href="http://ethan.heroku.com2012/02/george-p-spencer-epitaph"/>
+    <updated>2012-02-20T20:02:00-05:00</updated>
+    <id>http://ethan.heroku.com/2012/02/george-p-spencer-epitaph</id>
+    <content type="html">
+      <![CDATA[
+        
+          <blockquote>
+            Beyond the universe there is nothing and within the universe the supernatural does not and cannot exist. Of all deceivers who have plagued mankind, none are so deeply ruinous to human happiness as those imposters who pretend to lead by a ligth about nature. Science has never killed or prosecuted a single person for doubting or denying its teachings, and most of these teachings have been true; but religion has murdered millions for doubting or denying her dogmas, and most of these dogmas have been false.
+
+            George P. Spencer
+
+          </blockquote>
+        
+      ]]>
+      <![CDATA[
+]]>
+    </content>
+  </entry>
   
   <entry>
   	
@@ -645,22 +668,6 @@ $ git push
         
       ]]>
       <![CDATA[<p>SIRIUS XM&#8217;s BPM station played Kaskade&#8217;s excellent remix of <em>Walking on a Dream</em> by Empire of the Sun, and I just had to post it.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[video]]></title>
-    
-    <link href="http://ethan.heroku.com2012/01/mackine-dl1608"/>
-    <updated>2012-01-23T16:39:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/01/mackine-dl1608</id>
-    <content type="html">
-      <![CDATA[
-        
-      ]]>
-      <![CDATA[<p>Mackie announced their DL1608 wireless iPad mixer a few days ago at NAMM. Not sure what&#8217;s going on with this rather&#8230; interesting&#8230; video, but that mixer looks so amazing.</p>
 ]]>
     </content>
   </entry>
