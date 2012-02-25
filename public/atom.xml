@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-02-21T16:37:10-05:00</updated>
+  <updated>2012-02-24T21:49:39-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[link]]></title>
+    
+    <link href="http://ethan.heroku.com2012/02/brooke-tomlinson"/>
+    <updated>2012-02-24T21:45:00-05:00</updated>
+    <id>http://ethan.heroku.com/2012/02/brooke-tomlinson</id>
+    <content type="html">
+      <![CDATA[
+        
+          <h1><a href="http://www.facebook.com/BrookeTomlinsonMusic">Brooke Tomlinson &rarr;</a></h1>
+        
+      ]]>
+      <![CDATA[<p>Please do yourself a favour and listen to my friend Brooke Tomlinson&#8217;s song—she&#8217;s an amazing singer and guitarist!</p>
+]]>
+    </content>
+  </entry>
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[video]]></title>
+    
+    <link href="http://ethan.heroku.com2012/02/everything-is-a-remix-part-4"/>
+    <updated>2012-02-24T21:37:00-05:00</updated>
+    <id>http://ethan.heroku.com/2012/02/everything-is-a-remix-part-4</id>
+    <content type="html">
+      <![CDATA[
+        
+      ]]>
+      <![CDATA[<p>The fourth and final installment of Kirby Ferguson&#8217;s <em>Everything is a Remix</em>.</p>
+]]>
+    </content>
+  </entry>
   
   <entry>
   	
@@ -630,44 +664,6 @@ $ git push
         
       ]]>
       <![CDATA[
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[video]]></title>
-    
-    <link href="http://ethan.heroku.com2012/01/clear-app"/>
-    <updated>2012-01-27T13:06:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/01/clear-app</id>
-    <content type="html">
-      <![CDATA[
-        
-      ]]>
-      <![CDATA[<p>Realmac Software demoed their new iPhone app <a href="http://www.realmacsoftware.com/clear/">Clear</a>. This is going to be the one to-do list I will actually buy.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-	    <title type="html"><![CDATA[Facebook to Path]]></title>
-    
-    <link href="http://ethan.heroku.com2012/01/facebook-to-path"/>
-    <updated>2012-01-26T21:00:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/01/facebook-to-path</id>
-    <content type="html">
-      <![CDATA[
-        
-      ]]>
-      <![CDATA[<p>With the explosion in the number of smartphones in high schooler&#8217;s hands, the number of teenager users that are using mobile-only apps like <a href="http://instagr.am/">Instagram</a> and <a href="http://oink.com">Oink</a> are skyrocketing. For that reason, I expect a mass exodus of teens from Facebook to <a href="http://path.com">Path</a>.</p>
-
-<p>There are already early adopters from my school, and they are trying to spread the network as fast and to as many people as possible. And, as far as I can tell, it&#8217;s working. Since I looked last week, thirty people from my school have joined Path. That&#8217;s not a signifigant number in the overall scheme of things, but that means that there is a market for networks like these with teens.</p>
-
-<p>Google+ could have been a contender with the teen market. But with Google&#8217;s repeated refusal to allow 13- to 18-year-olds into the beginning of the beta, they essentially killed their chances with teens.</p>
-
-<p>I could also see some trouble with Path. The limit to 150 friends and lack of a desktop version will definitely shy people away. Yet I look forward to the time where I don&#8217;t even need to visit the increasingly terrible Facebook to catch up with friends.</p>
 ]]>
     </content>
   </entry>
