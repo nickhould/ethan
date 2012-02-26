@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-02-24T21:49:39-05:00</updated>
+  <updated>2012-02-25T19:30:22-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[link]]></title>
+    
+    <link href="http://ethan.heroku.com2012/02/windows-desktop-ui-concept"/>
+    <updated>2012-02-25T19:27:00-05:00</updated>
+    <id>http://ethan.heroku.com/2012/02/windows-desktop-ui-concept</id>
+    <content type="html">
+      <![CDATA[
+        
+          <h1><a href="http://www.theverge.com/2012/2/24/2822891/windows-desktop-ui-concept">Windows Desktop UI Concept &rarr;</a></h1>
+        
+      ]]>
+      <![CDATA[<p>The Verge Forums user <a href="http://www.theverge.com/users/Sputnik8">Sputnik8</a> created this incredible mockup of a minimalist Windows desktop. If someone were to make this into an Ubuntu theme, I&#8217;d be eternally grateful.</p>
+]]>
+    </content>
+  </entry>
   
   <entry>
   	
@@ -641,29 +659,6 @@ $ git push
         
       ]]>
       <![CDATA[<p>Jessica Ahlquist is getting finally getting some press with her fight against the unconstitutional prayer banner in her high school auditorium.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[quote]]></title>
-    
-    <link href="http://ethan.heroku.com2012/01/ordered-and-elegant-universe-adam-savage"/>
-    <updated>2012-01-27T14:08:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/01/ordered-and-elegant-universe-adam-savage</id>
-    <content type="html">
-      <![CDATA[
-        
-          <blockquote>
-            The idea of an ordered and elegant universe is a lovely one. But you don&#8217;t need religion to appreciate the ordered existence. It&#8217;s not just an idea. It&#8217;s reality. We&#8217;re discovering the hidden orders of the universe every day. The inverse square law of gravitation is amazing. Fractals, the theory of relativity, the genome: these are magnificently beautiful constructs.
-
-            Adam Savage
-
-          </blockquote>
-        
-      ]]>
-      <![CDATA[
 ]]>
     </content>
   </entry>
