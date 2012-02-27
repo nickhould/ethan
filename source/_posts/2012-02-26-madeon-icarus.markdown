@@ -7,4 +7,4 @@ audio:
 permalink: 2012/02/madeon-icarus
 ---
 
-Madeon has finally released his new single, _[Icarus](http://www.beatport.com/release/icarus/874833)]_.
+Madeon has finally released his new single, _[Icarus](http://www.beatport.com/release/icarus/874833)_.
