@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-02-25T19:30:22-05:00</updated>
+  <updated>2012-02-26T20:13:53-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[audio]]></title>
+    
+    <link href="http://ethan.heroku.com2012/02/madeon-icarus"/>
+    <updated>2012-02-26T20:11:00-05:00</updated>
+    <id>http://ethan.heroku.com/2012/02/madeon-icarus</id>
+    <content type="html">
+      <![CDATA[
+        
+          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Madeon%20-%20Icarus.mp3">http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Madeon%20-%20Icarus.mp3</a></p>
+        
+      ]]>
+      <![CDATA[<p>Madeon has finally released his new single, <em><a href="http://www.beatport.com/release/icarus/874833">Icarus</a>]</em>.</p>
+]]>
+    </content>
+  </entry>
   
   <entry>
   	
@@ -641,24 +659,6 @@ $ git push
         
       ]]>
       <![CDATA[<p>What became clear from the SOPA/PIPA debacle is that Hollywood still doesn&#8217;t understand the Internet. So why don&#8217;t technology companies treat Hollywood like they treat technology companies?</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[link]]></title>
-    
-    <link href="http://ethan.heroku.com2012/01/ahlquist-nytimes"/>
-    <updated>2012-01-27T15:25:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/01/ahlquist-nytimes</id>
-    <content type="html">
-      <![CDATA[
-        
-          <h1><a href="http://www.nytimes.com/2012/01/27/us/rhode-island-city-enraged-over-school-prayer-lawsuit.html">NYTimes — Student Faces Town&#8217;s Wrath in Protest Against Prayer &rarr;</a></h1>
-        
-      ]]>
-      <![CDATA[<p>Jessica Ahlquist is getting finally getting some press with her fight against the unconstitutional prayer banner in her high school auditorium.</p>
 ]]>
     </content>
   </entry>
