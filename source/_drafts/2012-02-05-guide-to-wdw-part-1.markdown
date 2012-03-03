@@ -11,9 +11,9 @@ Walt Disney World is large. Big even. I mean, you may think it's a long way down
 
 The World is 30,080 acres total. That's about 47 square miles, or 121.7 square kilometers. If you can't picture that, that's about twice the size of Manhattan. So yes, it's big.
 
-And in that land you can find four theme parks, two water parks, twenty-three themed hotels (plus eight more non-Disney hotels, a campground, two health spas, five golf courses, and one-hundred and thirty-nine restaurants.
+And in that land you can find four theme parks, two water parks, twenty-three themed hotels (plus eight more non-Disney hotels), a campground, two health spas, five golf courses, and one-hundred and thirty-nine restaurants.
 
-It is impossible to see all of this in one visit. You would have to spend at least a month to experience everything the World has to offer. In order to know what you're doing, you need a guide. And that's where I come in.
+It is impossible to see all of this in one visit. You need to accept this. But, in order to know what you're doing and how to do it as efficiently as possible, you need a guide. And that's where I come in.
 
 In the coming weeks (or months, I haven't written everything yet), I will bring you through everything you need to know to have an enjoyable, cost-efficient vacation, with some tips along the way.
 
@@ -43,3 +43,7 @@ Business boomed. Disney was becoming the cultural behemoth it is today. In 1982,
 
 **Downtown Disney** is a huge shopping, dining, and entertainment complex. It consists of Downtown Disney Marketplace to the east and Downtown Disney West Side to the west. There are almost forty shops here, with countless restaurants for every taste. For entertainment, there is Cirque du Soliel: La Nouba, a 24-screen theatre, and DisneyQuest. For more shopping, there is **Boardwalk**. It is geared more toward young adults and has many bars and clubs.
 
+
+<hr />
+
+In the following weeks, I will be releasing detailed guides of every aspect of the World, from arrival to departure. I hope you'll enjoy this as much as I will!
