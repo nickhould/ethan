@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-03-07T21:13:13-05:00</updated>
+  <updated>2012-03-07T21:34:54-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[quote]]></title>
+    
+    <link href="http://ethan.heroku.com2012/03/mark-twain-death"/>
+    <updated>2012-03-07T21:33:00-05:00</updated>
+    <id>http://ethan.heroku.com/2012/03/mark-twain-death</id>
+    <content type="html">
+      <![CDATA[
+        
+          <blockquote>
+            I do not fear death. I [was] dead for billions of years, and suffered not the slightest inconvenience.
+
+            Mark Twain
+
+          </blockquote>
+        
+      ]]>
+      <![CDATA[
+]]>
+    </content>
+  </entry>
   
   <entry>
   	
@@ -641,22 +664,6 @@ $ git push
         
       ]]>
       <![CDATA[<p>I love the 1972 animated television special, so I have high hopes for this film, <em>The Lorax</em>. I&#8217;m so enthusiastic about this that I&#8217;ll let it slide that they&#8217;ve cast Zac Efron.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[video]]></title>
-    
-    <link href="http://ethan.heroku.com2012/02/alaskan-wakeboarding"/>
-    <updated>2012-02-02T19:05:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/02/alaskan-wakeboarding</id>
-    <content type="html">
-      <![CDATA[
-        
-      ]]>
-      <![CDATA[<p>Kiteboarder Andy Hurdman goes for a leisurely wakeboard ride through an ice field in Alaska.</p>
 ]]>
     </content>
   </entry>
