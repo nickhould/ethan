@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-03-06T19:36:42-05:00</updated>
+  <updated>2012-03-07T21:13:13-05:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[video]]></title>
+    
+    <link href="http://ethan.heroku.com2012/03/stop-kony"/>
+    <updated>2012-03-07T20:51:00-05:00</updated>
+    <id>http://ethan.heroku.com/2012/03/stop-kony</id>
+    <content type="html">
+      <![CDATA[
+        
+      ]]>
+      <![CDATA[<p>KONY 2012 is a film and campaign by Invisible Children that aims to make Joseph Kony famous, not to celebrate him, but to raise support for his arrest and set a precedent for international justice.</p>
+]]>
+    </content>
+  </entry>
   
   <entry>
   	
@@ -641,24 +657,6 @@ $ git push
         
       ]]>
       <![CDATA[<p>Kiteboarder Andy Hurdman goes for a leisurely wakeboard ride through an ice field in Alaska.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[link]]></title>
-    
-    <link href="http://ethan.heroku.com2012/02/bouletcorp-darkness"/>
-    <updated>2012-02-01T19:39:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/02/bouletcorp-darkness</id>
-    <content type="html">
-      <![CDATA[
-        
-          <h1><a href="http://english.bouletcorp.com/2012/02/01/darkness/">Bouletcorp&#8217;s <em>Darkness</em> &rarr;</a></h1>
-        
-      ]]>
-      <![CDATA[<p>Bouletcorp&#8217;s <em>Darkness</em> is one of the greatest bandes-dessinees (comics) that I&#8217;ve seen. It is so beautifully drawn, and I really like the plot. It&#8217;s worth the time to read.</p>
 ]]>
     </content>
   </entry>
