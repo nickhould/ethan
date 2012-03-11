@@ -38,7 +38,7 @@ layout: nil
         {% when "link" %}
           <h1><a href="{{ post.link.url }}">{{ post.link.title }} &rarr;</a></h1>
         {% when "audio" %}
-          <p><a href="{{ post.audio.url }}">{{ post.audio.url }}</a></p>
+          <p><a href="{{ post.audio.url }}">{{ post.title }}</a></p>
         {% when "video %}
           <p>{{ post.video.embed }}</p>
         {% endcase %}
