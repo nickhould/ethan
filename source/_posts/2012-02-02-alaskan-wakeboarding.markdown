@@ -1,6 +1,7 @@
 ---
 layout: post
 type: video
+title: Alaskan Wakeboarding
 date: 2012-02-02 19:05
 video: 
   embed: |

@@ -1,6 +1,7 @@
 ---
 layout: post
 type: quote
+title: "George P. Spencer's Epitaph"
 date: 2012-02-20 20:02
 quote: 
   quote: |

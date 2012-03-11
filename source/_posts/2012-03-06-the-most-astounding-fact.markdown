@@ -1,6 +1,7 @@
 ---
 layout: post
 type: video
+title: The Most Astounding Fact
 date: 2012-03-06 19:17
 video: 
   embed: |

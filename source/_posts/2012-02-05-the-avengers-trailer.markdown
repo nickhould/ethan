@@ -1,6 +1,7 @@
 ---
 layout: post
 type: video
+title: The Avengers
 date: 2012-02-05 20:06
 video: 
   embed: |

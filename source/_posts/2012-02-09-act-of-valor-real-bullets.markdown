@@ -1,6 +1,7 @@
 ---
 layout: post
 type: video
+title: Act of Valor
 date: 2012-02-09 17:40
 video: 
   embed: |

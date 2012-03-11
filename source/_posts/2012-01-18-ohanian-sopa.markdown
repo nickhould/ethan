@@ -1,6 +1,7 @@
 ---
 layout: post
 type: quote
+title: Alexis Ohanian on SOPA
 date: 2012-01-18 15:11
 quote: 
   quote: |

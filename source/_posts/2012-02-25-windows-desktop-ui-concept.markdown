@@ -1,6 +1,7 @@
 ---
 layout: post
 type: link
+title: Windows Desktop UI Concept
 date: 2012-02-25 19:27
 link: 
   title: Windows Desktop UI Concept

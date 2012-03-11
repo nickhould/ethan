@@ -1,6 +1,7 @@
 ---
 layout: post
 type: quote
+title: Mark Twain on Death
 date: 2012-03-07 21:33
 quote: 
   quote: |

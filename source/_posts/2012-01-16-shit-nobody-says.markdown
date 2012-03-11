@@ -1,6 +1,7 @@
 ---
 layout: post
 type: video
+title: Shit Nobody Says
 date: 2012-01-16 15:00
 video: 
   embed: |

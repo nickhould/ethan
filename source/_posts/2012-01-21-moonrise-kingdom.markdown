@@ -1,6 +1,7 @@
 ---
 layout: post
 type: video
+title: Moonrise Kingdom
 date: 2012-01-21 10:46
 video: 
   embed: |

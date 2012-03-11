@@ -1,6 +1,7 @@
 ---
 layout: post
 type: video
+title: Ok Go — Needing/Getting
 date: 2012-02-06 16:16
 video: 
   embed: |

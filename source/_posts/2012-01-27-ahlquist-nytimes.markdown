@@ -1,6 +1,7 @@
 ---
 layout: post
 type: link
+title: NYTimes — Student Faces Town's Wrath in Protest Against Prayer
 date: 2012-01-27 15:25
 link: 
   title: NYTimes — Student Faces Town's Wrath in Protest Against Prayer

@@ -1,6 +1,7 @@
 ---
 layout: post
 type: link
+title: Bouletcorp — Darkness
 date: 2012-02-01 19:39
 link: 
   title: Bouletcorp's <em>Darkness</em>

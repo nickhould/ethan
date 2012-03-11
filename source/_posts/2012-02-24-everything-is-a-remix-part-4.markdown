@@ -1,6 +1,7 @@
 ---
 layout: post
 type: video
+title: Everything is a Remix, Part 4
 date: 2012-02-24 21:37
 video: 
   embed: |

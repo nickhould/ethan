@@ -1,6 +1,7 @@
 ---
 layout: post
 type: video
+title: Henson 1963
 date: 2012-01-26 20:28
 video: 
   embed: |

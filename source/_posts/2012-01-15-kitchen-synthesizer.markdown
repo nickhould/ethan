@@ -1,6 +1,7 @@
 ---
 layout: post
 type: video
+title: Kitchen Synthesizer
 date: 2012-01-15 21:09
 video: 
   embed: |

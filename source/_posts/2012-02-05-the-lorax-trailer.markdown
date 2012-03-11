@@ -1,6 +1,7 @@
 ---
 layout: post
 type: video
+title: The Lorax
 date: 2012-02-05 19:30
 video: 
   embed: |

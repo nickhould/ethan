@@ -1,6 +1,7 @@
 ---
 layout: post
 type: quote
+title: Adam Savage — "An Ordered and Elegant Universe"
 date: 2012-01-27 14:08
 quote: 
   quote: |

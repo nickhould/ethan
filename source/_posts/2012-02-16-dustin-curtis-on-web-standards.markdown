@@ -1,6 +1,7 @@
 ---
 layout: post
 type: link
+title: Dustin Curtis on Web Standards
 date: 2012-02-16 16:00
 link: 
   title: Dustin Curtis on Web Standards

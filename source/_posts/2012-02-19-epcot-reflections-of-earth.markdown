@@ -1,6 +1,7 @@
 ---
 layout: post
 type: audio
+title: "IllumiNations: Reflections of Earth"
 date: 2012-02-19 10:12
 audio: 
   url: http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Disney%20Parks%20-%20Reflections%20of%20Earth.mp3

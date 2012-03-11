@@ -1,6 +1,7 @@
 ---
 layout: post
 type: audio
+title: The Shins — Simple Song
 date: 2012-01-21 10:53
 audio: 
   url: http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/01/Simple%20Song%20-%20The%20Shins.mp3

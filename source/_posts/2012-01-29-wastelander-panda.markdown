@@ -1,6 +1,7 @@
 ---
 layout: post
 type: video
+title: Wastelander Panda
 date: 2012-01-29 17:31
 video: 
   embed: |

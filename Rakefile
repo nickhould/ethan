@@ -104,6 +104,7 @@ task :new_post, :type, :permalink do |t, args|
     post.puts "---"
     post.puts "layout: post"
     post.puts "type: #{args.type}"
+    post.puts "title: "
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
     
     case args.type

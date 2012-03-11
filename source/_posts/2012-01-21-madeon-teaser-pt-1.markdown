@@ -1,6 +1,7 @@
 ---
 layout: post
 type: video
+title: Madeon Teaser, Part 1
 date: 2012-01-21 09:42
 video: 
   embed: |

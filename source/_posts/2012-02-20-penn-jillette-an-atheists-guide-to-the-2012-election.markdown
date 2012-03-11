@@ -1,6 +1,7 @@
 ---
 layout: post
 type: video
+title: "Penn Jillete: An Atheist's Guide to the 2012 Election"
 date: 2012-02-20 20:48
 video: 
   embed: |
