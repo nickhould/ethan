@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-03-12T16:41:13-04:00</updated>
+  <updated>2012-03-12T17:49:39-04:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[The Shins — September]]></title>
+    
+    <link href="http://ethan.heroku.com2012/03/the-shins-september"/>
+    <updated>2012-03-12T17:47:00-04:00</updated>
+    <id>http://ethan.heroku.com/2012/03/the-shins-september</id>
+    <content type="html">
+      <![CDATA[
+        
+          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/03/The%20Shins%20-%20September.mp3">The Shins — September</a></p>
+        
+      ]]>
+      <![CDATA[<p>The Shins have released a new track, <em>September</em>. It&#8217;s from their upcoming alubm <em>Port of Morrow</em>, which is dropping on March 20th.</p>
+]]>
+    </content>
+  </entry>
   
   <entry>
   	
@@ -650,22 +668,6 @@ $ git push
         
       ]]>
       <![CDATA[<p>Ok Go partnered with Chevrolet to bring this excellent music video for their song <em>Needing/Getting</em>.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[The Avengers]]></title>
-    
-    <link href="http://ethan.heroku.com2012/02/the-avengers-trailer"/>
-    <updated>2012-02-05T20:06:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/02/the-avengers-trailer</id>
-    <content type="html">
-      <![CDATA[
-        
-      ]]>
-      <![CDATA[<p>You know, I may be enthusiastic about <em>The Lorax</em>, but Marvel&#8217;s <em>The Avengers</em> really looks awesome.</p>
 ]]>
     </content>
   </entry>
