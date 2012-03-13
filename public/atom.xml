@@ -4,7 +4,7 @@
   <title><![CDATA[Ethan Turkeltaub]]></title>
   <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
   <link href="http://ethan.heroku.com/"/>
-  <updated>2012-03-12T17:49:39-04:00</updated>
+  <updated>2012-03-12T21:31:04-04:00</updated>
   <id>http://ethan.heroku.com/</id>
   <author>
     <name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+  	
+    	<title type="html"><![CDATA[We Stopped Dreaming]]></title>
+    
+    <link href="http://ethan.heroku.com2012/03/we-stopped-dreaming"/>
+    <updated>2012-03-12T21:26:00-04:00</updated>
+    <id>http://ethan.heroku.com/2012/03/we-stopped-dreaming</id>
+    <content type="html">
+      <![CDATA[
+        
+      ]]>
+      <![CDATA[<p>Neil deGrasse Tyson on the downfall of the United States space program.</p>
+]]>
+    </content>
+  </entry>
   
   <entry>
   	
@@ -652,22 +668,6 @@ $ git push
         
       ]]>
       <![CDATA[<p>Essentially, the team for the upcoming movie <em>Act of Valor</em> just said, <em>&#8220;Fuck it, we&#8217;ll do it live.&#8221;</em> and used real, live ammo instead of CGI in shooting the movie. Yikes.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[Ok Go — Needing/Getting]]></title>
-    
-    <link href="http://ethan.heroku.com2012/02/ok-go-needing-getting"/>
-    <updated>2012-02-06T16:16:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/02/ok-go-needing-getting</id>
-    <content type="html">
-      <![CDATA[
-        
-      ]]>
-      <![CDATA[<p>Ok Go partnered with Chevrolet to bring this excellent music video for their song <em>Needing/Getting</em>.</p>
 ]]>
     </content>
   </entry>
