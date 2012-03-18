@@ -1,354 +1,354 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Ethan Turkeltaub]]></title>
-  <link href="http://ethan.heroku.com/atom.xml" rel="self"/>
-  <link href="http://ethan.heroku.com/"/>
-  <updated>2012-03-18T10:17:43-04:00</updated>
-  <id>http://ethan.heroku.com/</id>
-  <author>
-    <name><![CDATA[Ethan Turkeltaub]]></name>
-    
-  </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
+	<title><![CDATA[Ethan Turkeltaub]]></title>
+	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
+	<link href="http://ethan.heroku.com/"/>
+	<updated>2012-03-18T10:23:33-04:00</updated>
+	<id>http://ethan.heroku.com/</id>
+	<author>
+		<name><![CDATA[Ethan Turkeltaub]]></name>
+		
+	</author>
+	<generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[Brooke Tomlinson covers "She Will Be Loved"]]></title>
-    
-    <link href="http://ethan.heroku.com2012/03/brooke-tomlinson-she-will-be-loved"/>
-    <updated>2012-03-17T22:56:00-04:00</updated>
-    <id>http://ethan.heroku.com/2012/03/brooke-tomlinson-she-will-be-loved</id>
-    <content type="html">
-      <![CDATA[
-        
-      ]]>
-      <![CDATA[<p>Another brilliant cover by <a href="http://brooketomlinson.com">Brooke Tomlinson</a>, this time of <em>She Will Be Loved</em> by Maroon 5.</p>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Brooke Tomlinson covers "She Will Be Loved"]]></title>
+		
+		<link href="http://ethan.heroku.com2012/03/brooke-tomlinson-she-will-be-loved"/>
+		<updated>2012-03-17T22:56:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/03/brooke-tomlinson-she-will-be-loved</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>Another brilliant cover by <a href="http://brooketomlinson.com">Brooke Tomlinson</a>, this time of <em>She Will Be Loved</em> by Maroon 5.</p>
 ]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[We Stopped Dreaming]]></title>
-    
-    <link href="http://ethan.heroku.com2012/03/we-stopped-dreaming"/>
-    <updated>2012-03-12T21:26:00-04:00</updated>
-    <id>http://ethan.heroku.com/2012/03/we-stopped-dreaming</id>
-    <content type="html">
-      <![CDATA[
-        
-      ]]>
-      <![CDATA[<p>Neil deGrasse Tyson on the downfall of the United States space program.</p>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[We Stopped Dreaming]]></title>
+		
+		<link href="http://ethan.heroku.com2012/03/we-stopped-dreaming"/>
+		<updated>2012-03-12T21:26:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/03/we-stopped-dreaming</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>Neil deGrasse Tyson on the downfall of the United States space program.</p>
 ]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[The Shins — September]]></title>
-    
-    <link href="http://ethan.heroku.com2012/03/the-shins-september"/>
-    <updated>2012-03-12T17:47:00-04:00</updated>
-    <id>http://ethan.heroku.com/2012/03/the-shins-september</id>
-    <content type="html">
-      <![CDATA[
-        
-          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/03/The%20Shins%20-%20September.mp3">The Shins — September</a></p>
-        
-      ]]>
-      <![CDATA[<p>The Shins have released a new track, <em>September</em>. It&#8217;s from their upcoming alubm <em>Port of Morrow</em>, which is dropping on March 20th.</p>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[The Shins — September]]></title>
+		
+		<link href="http://ethan.heroku.com2012/03/the-shins-september"/>
+		<updated>2012-03-12T17:47:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/03/the-shins-september</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/03/The%20Shins%20-%20September.mp3">The Shins — September</a></p>
+				
+			]]>
+			<![CDATA[<p>The Shins have released a new track, <em>September</em>. It&#8217;s from their upcoming alubm <em>Port of Morrow</em>, which is dropping on March 20th.</p>
 ]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[The Guardian — Bradley Manning's treatment was cruel and inhuman, UN torture chief rules]]></title>
-    
-    <link href="http://ethan.heroku.com2012/03/un-manning-treatment-cruel"/>
-    <updated>2012-03-12T16:36:00-04:00</updated>
-    <id>http://ethan.heroku.com/2012/03/un-manning-treatment-cruel</id>
-    <content type="html">
-      <![CDATA[
-        
-          <h1><a href=""><em>The Guardian</em> &mdash; Bradley Manning&#8217;s treatment was cruel and inhuman, UN torture chief rules &rarr;</a></h1>
-        
-      ]]>
-      <![CDATA[<p>United Nations special rapporteur on torture Juan Mendez has ruled that the conditions that the U.S. government are holding Wikileaks whistleblower Bradley Manning are &#8220;cruel and inhuman&#8221;. The Pentagon even refused to allow Mendez to see Manning in private, which is a violation of human rights procedures. Don&#8217;t forget that the court martial has not even ruled on the issue yet.</p>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[The Guardian — Bradley Manning's treatment was cruel and inhuman, UN torture chief rules]]></title>
+		
+		<link href="http://ethan.heroku.com2012/03/un-manning-treatment-cruel"/>
+		<updated>2012-03-12T16:36:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/03/un-manning-treatment-cruel</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p><a href=""><em>The Guardian</em> &mdash; Bradley Manning&#8217;s treatment was cruel and inhuman, UN torture chief rules &rarr;</a></p>
+				
+			]]>
+			<![CDATA[<p>United Nations special rapporteur on torture Juan Mendez has ruled that the conditions that the U.S. government are holding Wikileaks whistleblower Bradley Manning are &#8220;cruel and inhuman&#8221;. The Pentagon even refused to allow Mendez to see Manning in private, which is a violation of human rights procedures. Don&#8217;t forget that the court martial has not even ruled on the issue yet.</p>
 ]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[Mark Twain on Death]]></title>
-    
-    <link href="http://ethan.heroku.com2012/03/mark-twain-death"/>
-    <updated>2012-03-07T21:33:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/03/mark-twain-death</id>
-    <content type="html">
-      <![CDATA[
-        
-          <blockquote>
-            I do not fear death. I [was] dead for billions of years, and suffered not the slightest inconvenience.
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Mark Twain on Death]]></title>
+		
+		<link href="http://ethan.heroku.com2012/03/mark-twain-death"/>
+		<updated>2012-03-07T21:33:00-05:00</updated>
+		<id>http://ethan.heroku.com/2012/03/mark-twain-death</id>
+		<content type="html">
+			<![CDATA[
+				
+					<blockquote>
+						I do not fear death. I [was] dead for billions of years, and suffered not the slightest inconvenience.
 
-            Mark Twain
+						<p>&mdash;<cite>Mark Twain
+</cite></p>
+					</blockquote>
+				
+			]]>
+			<![CDATA[
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[The Most Astounding Fact]]></title>
+		
+		<link href="http://ethan.heroku.com2012/03/the-most-astounding-fact"/>
+		<updated>2012-03-06T19:17:00-05:00</updated>
+		<id>http://ethan.heroku.com/2012/03/the-most-astounding-fact</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>Neil deGrasse Tyson on what he considers the most astounding fact about the universe.</p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Ra Ra Riot — Too Dramatic (Anamanaguchi Remix)]]></title>
+		
+		<link href="http://ethan.heroku.com2012/03/ra-ra-riot-too-dramatic-anamanaguchi-remix"/>
+		<updated>2012-03-03T09:14:00-05:00</updated>
+		<id>http://ethan.heroku.com/2012/03/ra-ra-riot-too-dramatic-anamanaguchi-remix</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/03/Ra%20Ra%20Riot%20-%20Too%20Dramatic%20%28Anamanaguchi%20Remix%29.mp3">Ra Ra Riot — Too Dramatic (Anamanaguchi Remix)</a></p>
+				
+			]]>
+			<![CDATA[<p>An Anamanguchi remix of Ra Ra Riot&#8217;s <em>Too Dramatic</em>? Yes please.</p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Madeon — Icarus]]></title>
+		
+		<link href="http://ethan.heroku.com2012/02/madeon-icarus"/>
+		<updated>2012-02-26T20:11:00-05:00</updated>
+		<id>http://ethan.heroku.com/2012/02/madeon-icarus</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Madeon%20-%20Icarus.mp3">Madeon — Icarus</a></p>
+				
+			]]>
+			<![CDATA[<p>Madeon has finally released his new single, <em><a href="http://www.beatport.com/release/icarus/874833">Icarus</a></em>.</p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Windows Desktop UI Concept]]></title>
+		
+		<link href="http://ethan.heroku.com2012/02/windows-desktop-ui-concept"/>
+		<updated>2012-02-25T19:27:00-05:00</updated>
+		<id>http://ethan.heroku.com/2012/02/windows-desktop-ui-concept</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p><a href="http://www.theverge.com/2012/2/24/2822891/windows-desktop-ui-concept">Windows Desktop UI Concept &rarr;</a></p>
+				
+			]]>
+			<![CDATA[<p>The Verge Forums user <a href="http://www.theverge.com/users/Sputnik8">Sputnik8</a> created this incredible mockup of a minimalist Windows desktop. If someone were to make this into an Ubuntu theme, I&#8217;d be eternally grateful.</p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Brooke Tomlinson]]></title>
+		
+		<link href="http://ethan.heroku.com2012/02/brooke-tomlinson"/>
+		<updated>2012-02-24T21:45:00-05:00</updated>
+		<id>http://ethan.heroku.com/2012/02/brooke-tomlinson</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p><a href="http://www.facebook.com/BrookeTomlinsonMusic">Brooke Tomlinson &rarr;</a></p>
+				
+			]]>
+			<![CDATA[<p>Please do yourself a favour and listen to my friend Brooke Tomlinson&#8217;s song—she&#8217;s an amazing singer and guitarist!</p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Everything is a Remix, Part 4]]></title>
+		
+		<link href="http://ethan.heroku.com2012/02/everything-is-a-remix-part-4"/>
+		<updated>2012-02-24T21:37:00-05:00</updated>
+		<id>http://ethan.heroku.com/2012/02/everything-is-a-remix-part-4</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>The fourth and final installment of Kirby Ferguson&#8217;s <em>Everything is a Remix</em>.</p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Madeon Live on BBC Radio 1]]></title>
+		
+		<link href="http://ethan.heroku.com2012/02/madeon-live-on-bbc-radio-1"/>
+		<updated>2012-02-21T16:35:00-05:00</updated>
+		<id>http://ethan.heroku.com/2012/02/madeon-live-on-bbc-radio-1</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Madeon%20-%20Live%20on%20BBC%20Radio%201%20at%20Hull.mp3">Madeon Live on BBC Radio 1</a></p>
+				
+			]]>
+			<![CDATA[<p>Madeon performing a live set on BBC Radio 1 in Hull, UK.</p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Penn Jillete: An Atheist's Guide to the 2012 Election]]></title>
+		
+		<link href="http://ethan.heroku.com2012/02/penn-jillette-an-atheists-guide-to-the-2012-election"/>
+		<updated>2012-02-20T20:48:00-05:00</updated>
+		<id>http://ethan.heroku.com/2012/02/penn-jillette-an-atheists-guide-to-the-2012-election</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>Penn Jillette on the atheist&#8217;s perspective of the 2012 Presidential election.</p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[George P. Spencer's Epitaph]]></title>
+		
+		<link href="http://ethan.heroku.com2012/02/george-p-spencer-epitaph"/>
+		<updated>2012-02-20T20:02:00-05:00</updated>
+		<id>http://ethan.heroku.com/2012/02/george-p-spencer-epitaph</id>
+		<content type="html">
+			<![CDATA[
+				
+					<blockquote>
+						Beyond the universe there is nothing and within the universe the supernatural does not and cannot exist. Of all deceivers who have plagued mankind, none are so deeply ruinous to human happiness as those imposters who pretend to lead by a ligth about nature. Science has never killed or prosecuted a single person for doubting or denying its teachings, and most of these teachings have been true; but religion has murdered millions for doubting or denying her dogmas, and most of these dogmas have been false.
 
-          </blockquote>
-        
-      ]]>
-      <![CDATA[
+						<p>&mdash;<cite>George P. Spencer
+</cite></p>
+					</blockquote>
+				
+			]]>
+			<![CDATA[
 ]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[The Most Astounding Fact]]></title>
-    
-    <link href="http://ethan.heroku.com2012/03/the-most-astounding-fact"/>
-    <updated>2012-03-06T19:17:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/03/the-most-astounding-fact</id>
-    <content type="html">
-      <![CDATA[
-        
-      ]]>
-      <![CDATA[<p>Neil deGrasse Tyson on what he considers the most astounding fact about the universe.</p>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[The Oatmeal — Game of Thrones]]></title>
+		
+		<link href="http://ethan.heroku.com2012/02/the-oatmeal-why-piracy-exists"/>
+		<updated>2012-02-20T17:18:00-05:00</updated>
+		<id>http://ethan.heroku.com/2012/02/the-oatmeal-why-piracy-exists</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p><a href="http://theoatmeal.com/comics/game_of_thrones"><em>The Oatmeal</em> — Game of Thrones &rarr;</a></p>
+				
+			]]>
+			<![CDATA[<p><em>The Oatmeal</em> perfectly describes why piracy exists.</p>
 ]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[Ra Ra Riot — Too Dramatic (Anamanaguchi Remix)]]></title>
-    
-    <link href="http://ethan.heroku.com2012/03/ra-ra-riot-too-dramatic-anamanaguchi-remix"/>
-    <updated>2012-03-03T09:14:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/03/ra-ra-riot-too-dramatic-anamanaguchi-remix</id>
-    <content type="html">
-      <![CDATA[
-        
-          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/03/Ra%20Ra%20Riot%20-%20Too%20Dramatic%20%28Anamanaguchi%20Remix%29.mp3">Ra Ra Riot — Too Dramatic (Anamanaguchi Remix)</a></p>
-        
-      ]]>
-      <![CDATA[<p>An Anamanguchi remix of Ra Ra Riot&#8217;s <em>Too Dramatic</em>? Yes please.</p>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Epcot Entrance Medley]]></title>
+		
+		<link href="http://ethan.heroku.com2012/02/epcot-entrance-medley"/>
+		<updated>2012-02-20T16:46:00-05:00</updated>
+		<id>http://ethan.heroku.com/2012/02/epcot-entrance-medley</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Disney%20Parks%20-%20Epcot%20Entrance%20Area%20Loop.mp3">Epcot Entrance Medley</a></p>
+				
+			]]>
+			<![CDATA[<p>I&#8217;m in love with the entrance area background music loop for Epcot. It makes me feel like I&#8217;m walking past Spaceship Earth on my way to Innoventions!</p>
 ]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[Madeon — Icarus]]></title>
-    
-    <link href="http://ethan.heroku.com2012/02/madeon-icarus"/>
-    <updated>2012-02-26T20:11:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/02/madeon-icarus</id>
-    <content type="html">
-      <![CDATA[
-        
-          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Madeon%20-%20Icarus.mp3">Madeon — Icarus</a></p>
-        
-      ]]>
-      <![CDATA[<p>Madeon has finally released his new single, <em><a href="http://www.beatport.com/release/icarus/874833">Icarus</a></em>.</p>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[IllumiNations: Reflections of Earth]]></title>
+		
+		<link href="http://ethan.heroku.com2012/02/epcot-reflections-of-earth"/>
+		<updated>2012-02-19T10:12:00-05:00</updated>
+		<id>http://ethan.heroku.com/2012/02/epcot-reflections-of-earth</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Disney%20Parks%20-%20Reflections%20of%20Earth.mp3">IllumiNations: Reflections of Earth</a></p>
+				
+			]]>
+			<![CDATA[<p>At the end of every great day at Epcot in Walt Disney World is the award-winning fireworks, laser, and fountain show <a href="http://en.wikipedia.org/wiki/IllumiNations:_Reflections_of_Earth"><em>IllumiNations: Reflections of Earth</em></a>. It started in 1999 to celebrate the new millenuium but proved so popular that it continues to this day. The <a href="http://www.amazon.com/Walt-Disney-World-Millennium-Celebration/dp/B00001WRO3/ref=sr_1_1?ie=UTF8&amp;qid=1329664618&amp;sr=8-1">soundtrack</a> is wonderful, and it great for ambient music.</p>
 ]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[Windows Desktop UI Concept]]></title>
-    
-    <link href="http://ethan.heroku.com2012/02/windows-desktop-ui-concept"/>
-    <updated>2012-02-25T19:27:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/02/windows-desktop-ui-concept</id>
-    <content type="html">
-      <![CDATA[
-        
-          <h1><a href="http://www.theverge.com/2012/2/24/2822891/windows-desktop-ui-concept">Windows Desktop UI Concept &rarr;</a></h1>
-        
-      ]]>
-      <![CDATA[<p>The Verge Forums user <a href="http://www.theverge.com/users/Sputnik8">Sputnik8</a> created this incredible mockup of a minimalist Windows desktop. If someone were to make this into an Ubuntu theme, I&#8217;d be eternally grateful.</p>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Dustin Curtis on Web Standards]]></title>
+		
+		<link href="http://ethan.heroku.com2012/02/dustin-curtis-on-web-standards"/>
+		<updated>2012-02-16T16:00:00-05:00</updated>
+		<id>http://ethan.heroku.com/2012/02/dustin-curtis-on-web-standards</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p><a href="http://dcurt.is/web-standards">Dustin Curtis on Web Standards &rarr;</a></p>
+				
+			]]>
+			<![CDATA[<p>Dustin Curtis hits the nail on the head with his critique of the W3C and CSS Working Group. I agree that, in this day in age, they move far too slow to create standards that are useful to anyone but vendors.</p>
 ]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[Brooke Tomlinson]]></title>
-    
-    <link href="http://ethan.heroku.com2012/02/brooke-tomlinson"/>
-    <updated>2012-02-24T21:45:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/02/brooke-tomlinson</id>
-    <content type="html">
-      <![CDATA[
-        
-          <h1><a href="http://www.facebook.com/BrookeTomlinsonMusic">Brooke Tomlinson &rarr;</a></h1>
-        
-      ]]>
-      <![CDATA[<p>Please do yourself a favour and listen to my friend Brooke Tomlinson&#8217;s song—she&#8217;s an amazing singer and guitarist!</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[Everything is a Remix, Part 4]]></title>
-    
-    <link href="http://ethan.heroku.com2012/02/everything-is-a-remix-part-4"/>
-    <updated>2012-02-24T21:37:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/02/everything-is-a-remix-part-4</id>
-    <content type="html">
-      <![CDATA[
-        
-      ]]>
-      <![CDATA[<p>The fourth and final installment of Kirby Ferguson&#8217;s <em>Everything is a Remix</em>.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[Madeon Live on BBC Radio 1]]></title>
-    
-    <link href="http://ethan.heroku.com2012/02/madeon-live-on-bbc-radio-1"/>
-    <updated>2012-02-21T16:35:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/02/madeon-live-on-bbc-radio-1</id>
-    <content type="html">
-      <![CDATA[
-        
-          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Madeon%20-%20Live%20on%20BBC%20Radio%201%20at%20Hull.mp3">Madeon Live on BBC Radio 1</a></p>
-        
-      ]]>
-      <![CDATA[<p>Madeon performing a live set on BBC Radio 1 in Hull, UK.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[Penn Jillete: An Atheist's Guide to the 2012 Election]]></title>
-    
-    <link href="http://ethan.heroku.com2012/02/penn-jillette-an-atheists-guide-to-the-2012-election"/>
-    <updated>2012-02-20T20:48:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/02/penn-jillette-an-atheists-guide-to-the-2012-election</id>
-    <content type="html">
-      <![CDATA[
-        
-      ]]>
-      <![CDATA[<p>Penn Jillette on the atheist&#8217;s perspective of the 2012 Presidential election.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[George P. Spencer's Epitaph]]></title>
-    
-    <link href="http://ethan.heroku.com2012/02/george-p-spencer-epitaph"/>
-    <updated>2012-02-20T20:02:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/02/george-p-spencer-epitaph</id>
-    <content type="html">
-      <![CDATA[
-        
-          <blockquote>
-            Beyond the universe there is nothing and within the universe the supernatural does not and cannot exist. Of all deceivers who have plagued mankind, none are so deeply ruinous to human happiness as those imposters who pretend to lead by a ligth about nature. Science has never killed or prosecuted a single person for doubting or denying its teachings, and most of these teachings have been true; but religion has murdered millions for doubting or denying her dogmas, and most of these dogmas have been false.
-
-            George P. Spencer
-
-          </blockquote>
-        
-      ]]>
-      <![CDATA[
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[The Oatmeal — Game of Thrones]]></title>
-    
-    <link href="http://ethan.heroku.com2012/02/the-oatmeal-why-piracy-exists"/>
-    <updated>2012-02-20T17:18:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/02/the-oatmeal-why-piracy-exists</id>
-    <content type="html">
-      <![CDATA[
-        
-          <h1><a href="http://theoatmeal.com/comics/game_of_thrones"><em>The Oatmeal</em> — Game of Thrones &rarr;</a></h1>
-        
-      ]]>
-      <![CDATA[<p><em>The Oatmeal</em> perfectly describes why piracy exists.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[Epcot Entrance Medley]]></title>
-    
-    <link href="http://ethan.heroku.com2012/02/epcot-entrance-medley"/>
-    <updated>2012-02-20T16:46:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/02/epcot-entrance-medley</id>
-    <content type="html">
-      <![CDATA[
-        
-          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Disney%20Parks%20-%20Epcot%20Entrance%20Area%20Loop.mp3">Epcot Entrance Medley</a></p>
-        
-      ]]>
-      <![CDATA[<p>I&#8217;m in love with the entrance area background music loop for Epcot. It makes me feel like I&#8217;m walking past Spaceship Earth on my way to Innoventions!</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[IllumiNations: Reflections of Earth]]></title>
-    
-    <link href="http://ethan.heroku.com2012/02/epcot-reflections-of-earth"/>
-    <updated>2012-02-19T10:12:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/02/epcot-reflections-of-earth</id>
-    <content type="html">
-      <![CDATA[
-        
-          <p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Disney%20Parks%20-%20Reflections%20of%20Earth.mp3">IllumiNations: Reflections of Earth</a></p>
-        
-      ]]>
-      <![CDATA[<p>At the end of every great day at Epcot in Walt Disney World is the award-winning fireworks, laser, and fountain show <a href="http://en.wikipedia.org/wiki/IllumiNations:_Reflections_of_Earth"><em>IllumiNations: Reflections of Earth</em></a>. It started in 1999 to celebrate the new millenuium but proved so popular that it continues to this day. The <a href="http://www.amazon.com/Walt-Disney-World-Millennium-Celebration/dp/B00001WRO3/ref=sr_1_1?ie=UTF8&amp;qid=1329664618&amp;sr=8-1">soundtrack</a> is wonderful, and it great for ambient music.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[Dustin Curtis on Web Standards]]></title>
-    
-    <link href="http://ethan.heroku.com2012/02/dustin-curtis-on-web-standards"/>
-    <updated>2012-02-16T16:00:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/02/dustin-curtis-on-web-standards</id>
-    <content type="html">
-      <![CDATA[
-        
-          <h1><a href="http://dcurt.is/web-standards">Dustin Curtis on Web Standards &rarr;</a></h1>
-        
-      ]]>
-      <![CDATA[<p>Dustin Curtis hits the nail on the head with his critique of the W3C and CSS Working Group. I agree that, in this day in age, they move far too slow to create standards that are useful to anyone but vendors.</p>
-]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-	    <title type="html"><![CDATA[Git & GitHub 101]]></title>
-    
-    <link href="http://ethan.heroku.com2012/02/git-and-github-101"/>
-    <updated>2012-02-10T15:31:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/02/git-and-github-101</id>
-    <content type="html">
-      <![CDATA[
-        
-      ]]>
-      <![CDATA[<script src="http://speakerdeck.com/embed/4ed3a35e5672e1004d008b5b.js"></script>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Git & GitHub 101]]></title>
+		
+		<link href="http://ethan.heroku.com2012/02/git-and-github-101"/>
+		<updated>2012-02-10T15:31:00-05:00</updated>
+		<id>http://ethan.heroku.com/2012/02/git-and-github-101</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<script src="http://speakerdeck.com/embed/4ed3a35e5672e1004d008b5b.js"></script>
 
 
 
@@ -653,23 +653,23 @@ $ git push
 </ul>
 
 ]]>
-    </content>
-  </entry>
-  
-  <entry>
-  	
-    	<title type="html"><![CDATA[Act of Valor]]></title>
-    
-    <link href="http://ethan.heroku.com2012/02/act-of-valor-real-bullets"/>
-    <updated>2012-02-09T17:40:00-05:00</updated>
-    <id>http://ethan.heroku.com/2012/02/act-of-valor-real-bullets</id>
-    <content type="html">
-      <![CDATA[
-        
-      ]]>
-      <![CDATA[<p>Essentially, the team for the upcoming movie <em>Act of Valor</em> just said, <em>&#8220;Fuck it, we&#8217;ll do it live.&#8221;</em> and used real, live ammo instead of CGI in shooting the movie. Yikes.</p>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Act of Valor]]></title>
+		
+		<link href="http://ethan.heroku.com2012/02/act-of-valor-real-bullets"/>
+		<updated>2012-02-09T17:40:00-05:00</updated>
+		<id>http://ethan.heroku.com/2012/02/act-of-valor-real-bullets</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>Essentially, the team for the upcoming movie <em>Act of Valor</em> just said, <em>&#8220;Fuck it, we&#8217;ll do it live.&#8221;</em> and used real, live ammo instead of CGI in shooting the movie. Yikes.</p>
 ]]>
-    </content>
-  </entry>
-  
+		</content>
+	</entry>
+	
 </feed>
