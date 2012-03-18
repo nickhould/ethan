@@ -1,7 +1,7 @@
 ---
 layout: post
 type: video
-title: 
+title: Brooke Tomlinson covers "She Will Be Loved"
 date: 2012-03-17 22:56
 video: 
   embed: |
@@ -13,3 +13,4 @@ source:
 ---
 
 Another brilliant cover by [Brooke Tomlinson](http://brooketomlinson.com), this time of _She Will Be Loved_ by Maroon 5.
+
