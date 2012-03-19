@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-03-18T10:23:33-04:00</updated>
+	<updated>2012-03-19T15:58:34-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,22 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Minute Physics explains Einstein's Special Theory of Relativity]]></title>
+		
+		<link href="http://ethan.heroku.com2012/03/special-theory-of-relativity"/>
+		<updated>2012-03-19T15:57:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/03/special-theory-of-relativity</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p><a href="http://www.youtube.com/user/minutephysics">Minute Physics</a> explains Einstein&#8217;s Special Theory of Relativity.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -652,22 +668,6 @@ $ git push
 <li><a href="http://hoth.entp.com/output/git_for_designers.html">Version Control for Designers</a> &mdash; A very simplistic and easy to digest guide on VCS in general.</li>
 </ul>
 
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Act of Valor]]></title>
-		
-		<link href="http://ethan.heroku.com2012/02/act-of-valor-real-bullets"/>
-		<updated>2012-02-09T17:40:00-05:00</updated>
-		<id>http://ethan.heroku.com/2012/02/act-of-valor-real-bullets</id>
-		<content type="html">
-			<![CDATA[
-				
-			]]>
-			<![CDATA[<p>Essentially, the team for the upcoming movie <em>Act of Valor</em> just said, <em>&#8220;Fuck it, we&#8217;ll do it live.&#8221;</em> and used real, live ammo instead of CGI in shooting the movie. Yikes.</p>
 ]]>
 		</content>
 	</entry>
