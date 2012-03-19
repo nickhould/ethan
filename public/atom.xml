@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-03-19T16:11:43-04:00</updated>
+	<updated>2012-03-19T16:33:33-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,24 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Martin Solveig — Night Out (Madeon Remix)]]></title>
+		
+		<link href="http://ethan.heroku.com2012/03/martin-solveig-night-out-madeon-remix"/>
+		<updated>2012-03-19T16:32:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/03/martin-solveig-night-out-madeon-remix</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/03/Martin%20Solveig%20-%20Night%20Out%20%28Madeon%20Remix%29.mp3">Martin Solveig — Night Out (Madeon Remix)</a></p>
+				
+			]]>
+			<![CDATA[<p>Madeon has released yet another remix, this time of <em>Night Out</em> by Martin Solveig.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -354,24 +372,6 @@
 				
 			]]>
 			<![CDATA[<p>At the end of every great day at Epcot in Walt Disney World is the award-winning fireworks, laser, and fountain show <a href="http://en.wikipedia.org/wiki/IllumiNations:_Reflections_of_Earth"><em>IllumiNations: Reflections of Earth</em></a>. It started in 1999 to celebrate the new millenuium but proved so popular that it continues to this day. The <a href="http://www.amazon.com/Walt-Disney-World-Millennium-Celebration/dp/B00001WRO3/ref=sr_1_1?ie=UTF8&amp;qid=1329664618&amp;sr=8-1">soundtrack</a> is wonderful, and it great for ambient music.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Dustin Curtis on Web Standards]]></title>
-		
-		<link href="http://ethan.heroku.com2012/02/dustin-curtis-on-web-standards"/>
-		<updated>2012-02-16T16:00:00-05:00</updated>
-		<id>http://ethan.heroku.com/2012/02/dustin-curtis-on-web-standards</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p><a href="http://dcurt.is/web-standards">Dustin Curtis on Web Standards &rarr;</a></p>
-				
-			]]>
-			<![CDATA[<p>Dustin Curtis hits the nail on the head with his critique of the W3C and CSS Working Group. I agree that, in this day in age, they move far too slow to create standards that are useful to anyone but vendors.</p>
 ]]>
 		</content>
 	</entry>
