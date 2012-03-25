@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-03-19T16:46:20-04:00</updated>
+	<updated>2012-03-25T11:36:30-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,22 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Of Monsters and Men — Six Weeks]]></title>
+		
+		<link href="http://ethan.heroku.com2012/03/of-monsters-and-men-six-weeks-kexp"/>
+		<updated>2012-03-25T11:34:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/03/of-monsters-and-men-six-weeks-kexp</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>Of Monsters and Men is finally starting to get mainstream attention (and by &#8220;mainstream attention&#8221;, I mean that kids at my high school are starting to notice them). So for posterity, here&#8217;s one of my favorite songs of theirs <em>Six Weeks</em> as performed on KEXP.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -352,24 +368,6 @@
 				
 			]]>
 			<![CDATA[<p><em>The Oatmeal</em> perfectly describes why piracy exists.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Epcot Entrance Medley]]></title>
-		
-		<link href="http://ethan.heroku.com2012/02/epcot-entrance-medley"/>
-		<updated>2012-02-20T16:46:00-05:00</updated>
-		<id>http://ethan.heroku.com/2012/02/epcot-entrance-medley</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Disney%20Parks%20-%20Epcot%20Entrance%20Area%20Loop.mp3">Epcot Entrance Medley</a></p>
-				
-			]]>
-			<![CDATA[<p>I&#8217;m in love with the entrance area background music loop for Epcot. It makes me feel like I&#8217;m walking past Spaceship Earth on my way to Innoventions!</p>
 ]]>
 		</content>
 	</entry>
