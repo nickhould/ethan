@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-03-25T11:36:30-04:00</updated>
+	<updated>2012-03-25T13:01:15-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,22 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Neil Degrasse Tyson On The Verge]]></title>
+		
+		<link href="http://ethan.heroku.com2012/03/neil-degrasse-tyson-on-the-verge"/>
+		<updated>2012-03-25T13:00:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/03/neil-degrasse-tyson-on-the-verge</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>Neil deGrasse Tyson on <em>On the Verge</em> talking about what it feels like to be a meme.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -350,24 +366,6 @@
 				
 			]]>
 			<![CDATA[
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[The Oatmeal — Game of Thrones]]></title>
-		
-		<link href="http://ethan.heroku.com2012/02/the-oatmeal-why-piracy-exists"/>
-		<updated>2012-02-20T17:18:00-05:00</updated>
-		<id>http://ethan.heroku.com/2012/02/the-oatmeal-why-piracy-exists</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p><a href="http://theoatmeal.com/comics/game_of_thrones"><em>The Oatmeal</em> — Game of Thrones &rarr;</a></p>
-				
-			]]>
-			<![CDATA[<p><em>The Oatmeal</em> perfectly describes why piracy exists.</p>
 ]]>
 		</content>
 	</entry>
