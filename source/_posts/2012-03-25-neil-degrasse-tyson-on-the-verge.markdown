@@ -1,7 +1,7 @@
 ---
 layout: post
 type: video
-title: 
+title: Neil deGrasse Tyson on being a meme.
 date: 2012-03-25 13:00
 video: 
   embed: |
