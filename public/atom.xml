@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-03-25T13:16:49-04:00</updated>
+	<updated>2012-03-26T19:19:37-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,22 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Doctor Who Series 7 Trailer 1]]></title>
+		
+		<link href="http://ethan.heroku.com2012/03/doctor-who-series-7-trailer-1"/>
+		<updated>2012-03-26T19:16:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/03/doctor-who-series-7-trailer-1</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>Having filmed episodes two and three of series seven, the BBC have released a new trailer for the next series of Doctor Who! October can&#8217;t come soon enough!</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -343,29 +359,6 @@
 				
 			]]>
 			<![CDATA[<p>Penn Jillette on the atheist&#8217;s perspective of the 2012 Presidential election.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[George P. Spencer's Epitaph]]></title>
-		
-		<link href="http://ethan.heroku.com2012/02/george-p-spencer-epitaph"/>
-		<updated>2012-02-20T20:02:00-05:00</updated>
-		<id>http://ethan.heroku.com/2012/02/george-p-spencer-epitaph</id>
-		<content type="html">
-			<![CDATA[
-				
-					<blockquote>
-						Beyond the universe there is nothing and within the universe the supernatural does not and cannot exist. Of all deceivers who have plagued mankind, none are so deeply ruinous to human happiness as those imposters who pretend to lead by a ligth about nature. Science has never killed or prosecuted a single person for doubting or denying its teachings, and most of these teachings have been true; but religion has murdered millions for doubting or denying her dogmas, and most of these dogmas have been false.
-
-						<p>&mdash;<cite>George P. Spencer
-</cite></p>
-					</blockquote>
-				
-			]]>
-			<![CDATA[
 ]]>
 		</content>
 	</entry>
