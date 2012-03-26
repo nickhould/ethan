@@ -1,7 +1,7 @@
 ---
 layout: post
 type: video
-title: 
+title: "Doctor Who: Series 7, Trailer #1"
 date: 2012-03-26 19:16
 video: 
   embed: |
