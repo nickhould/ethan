@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-03-26T19:49:45-04:00</updated>
+	<updated>2012-03-26T20:05:12-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,29 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Adam Savage at the Reason Rally]]></title>
+		
+		<link href="http://ethan.heroku.com2012/03/adam-savage-reason-rally"/>
+		<updated>2012-03-26T20:02:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/03/adam-savage-reason-rally</id>
+		<content type="html">
+			<![CDATA[
+				
+					<blockquote>
+						I have concluded through careful empirical analysis and much thought that somebody is looking out for me, keeping track of what I think about things, forgiving me when I do less that I ought. Giving me strength to shoot for more than I think I&#8217;m capable of. I believe they know everything that I do and think, and they still love me, and I&#8217;ve concluded, after careful consideration, that this person keeping score is ME.
+
+						<p>&mdash;<cite>Adam Savage
+</cite></p>
+					</blockquote>
+				
+			]]>
+			<![CDATA[<p>Adam Savage on his believe system at this year&#8217;s Reason Rally.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -343,22 +366,6 @@
 				
 			]]>
 			<![CDATA[<p>Madeon performing a live set on BBC Radio 1 in Hull, UK.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Penn Jillete: An Atheist's Guide to the 2012 Election]]></title>
-		
-		<link href="http://ethan.heroku.com2012/02/penn-jillette-an-atheists-guide-to-the-2012-election"/>
-		<updated>2012-02-20T20:48:00-05:00</updated>
-		<id>http://ethan.heroku.com/2012/02/penn-jillette-an-atheists-guide-to-the-2012-election</id>
-		<content type="html">
-			<![CDATA[
-				
-			]]>
-			<![CDATA[<p>Penn Jillette on the atheist&#8217;s perspective of the 2012 Presidential election.</p>
 ]]>
 		</content>
 	</entry>
