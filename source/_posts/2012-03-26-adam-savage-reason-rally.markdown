@@ -11,4 +11,4 @@ quote:
 permalink: 2012/03/adam-savage-reason-rally
 ---
 
-Adam Savage on his believe system at this year's Reason Rally.
+Adam Savage on his belief system at this year's Reason Rally.
