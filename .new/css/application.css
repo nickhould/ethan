@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic);
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic|PT+Serif);
 /*
 	
 		file: css/application.css
@@ -101,9 +101,9 @@ input, select {
 
 .row {
   width: 100%;
-  max-width: 760px;
+  max-width: 660px;
   min-width: 455px;
-  margin: 0 auto;
+  margin: 0 auto 0 4em;
   overflow: hidden; }
 
 .onecol, .twocol, .threecol, .fourcol, .fivecol, .sixcol, .sevencol, .eightcol, .ninecol, .tencol, .elevencol {
@@ -197,30 +197,74 @@ img {
 	II. 
 */
 body {
-  font: 300 15px/1.75em "calluna-1", "calluna-2", serif; }
+  background: url("../img/border.png") repeat-x;
+  color: #333;
+  font: 300 14px/1.75em "Lato", serif; }
+
+a {
+  color: #53c980;
+  text-decoration: none; }
+  a:hover {
+    color: #66e898; }
+
+blockquote {
+  border-left: 5px solid #efefef;
+  margin: 1em 0;
+  padding-left: 1em; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "PT Serif"; }
 
 h1 {
-  text-transform: uppercase; }
+  font-weight: 300;
+  font-size: 1.15em; }
 
 h2 {
-  font-family: "Lato";
-  font-size: 1.5em;
-  font-weight: 400; }
+  font-size: 1.25em;
+  font-weight: 300; }
 
-aside#left, section#right {
-  border-top: 10px solid #66e898;
-  padding-top: 3em; }
+p + p {
+  margin-top: 1em; }
 
 #contain {
-  margin: 2em auto 4em; }
+  margin: 6em auto 4em; }
 
 /*
-	III. Left Aside
+	III. Header
 */
-aside#left nav {
-  font-family: "Lato";
-  font-size: 0.92em; }
+#contain > header {
+  margin-bottom: 4em; }
 
 /*
-	IV. Right Main
+	IV. Main
 */
+#main article header {
+  margin-bottom: 1em; }
+#main article.text p + p {
+  margin-top: 0;
+  text-indent: 2em; }
+#main article + article {
+  margin-top: 8em; }
+#main footer {
+  margin-top: 8em; }
+  #main footer a {
+    background: #66e898;
+    border-radius: 3px;
+    color: #efefef;
+    display: inline-block;
+    padding: 0.5em 1.25em; }
+    #main footer a:hover {
+      background: #53c980; }
+
+/*
+	V. Footer
+*/
+#contain > footer {
+  border-top: 1px solid #efefef;
+  margin-top: 6em;
+  padding-top: 1.5em; }
+  #contain > footer ul {
+    margin-bottom: 0.5em; }
+    #contain > footer ul li {
+      display: inline;
+      padding-right: 1.5em; }

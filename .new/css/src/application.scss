@@ -6,10 +6,12 @@
 $calluna: "calluna-1", "calluna-2";
 $calluna-sans: "calluna-sans-1", "calluna-sans-2";
 $lato: "Lato";
+$pt-serif: "PT Serif";
 
 $primary: rgb(102, 232, 152);
+$secondary: rgb(83, 201, 128);
 
-@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic);
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic|PT+Serif);
 
 @import "gyaku";
 
@@ -36,45 +38,113 @@ $primary: rgb(102, 232, 152);
 */
 
 body {
-	font: 300 15px/1.75em $calluna, serif;
+	background: url("../img/border.png") repeat-x;
+	color: #333;
+	font: 300 14px/1.75em $lato, serif;
+}
+
+a {
+	color: $secondary;
+	text-decoration: none;
+
+	&:hover {
+		color: $primary;
+	}
+}
+
+blockquote {
+	border-left: 5px solid #efefef;
+	margin: 1em 0;
+	padding-left: 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: $pt-serif;
 }
 
 h1 {
-	text-transform: uppercase;
+	font-weight: 300;
+	font-size: 1.15em;
 }
 
 h2 {
-	font-family: $lato;
-	font-size: 1.5em;
-	font-weight: 400;
+	font-size: 1.25em;
+	font-weight: 300;
 }
 
-aside#left, section#right {
-	border-top: 10px solid $primary;
-	padding-top: 3em;
+p + p {
+	margin-top: 1em;
 }
 
 #contain {
-	margin: 2em auto 4em;
+	margin: 6em auto 4em;
 }
 
 
 /*
-	III. Left Aside
+	III. Header
 */
 
-aside#left {
-	nav {
-		font-family: $lato;
-		font-size: 0.92em;
+#contain > header {
+	margin-bottom: 4em;
+}
+
+
+/*
+	IV. Main
+*/
+
+#main {
+	article {
+		header {
+			margin-bottom: 1em;
+		}
+
+		&.text {
+			p + p {
+				margin-top: 0;
+				text-indent: 2em;
+			}
+		}
+
+		& + article {
+			margin-top: 8em;
+		}
+	}
+
+	footer {
+		margin-top: 8em;
+
+		a {
+			background: $primary;
+			border-radius: 3px;
+			color: #efefef;
+			display: inline-block;
+			padding: 0.5em 1.25em;
+
+			&:hover {
+				background: $secondary;
+			}
+		}
 	}
 }
 
 
 /*
-	IV. Right Main
+	V. Footer
 */
 
-section#right {
-	
+#contain > footer {
+	border-top: 1px solid #efefef;
+    margin-top: 6em;
+	padding-top: 1.5em;
+
+	ul {
+		margin-bottom: 0.5em;
+
+		li {
+			display: inline;
+			padding-right: 1.5em;
+		}
+	}
 }

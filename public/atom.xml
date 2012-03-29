@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-03-26T20:07:57-04:00</updated>
+	<updated>2012-03-28T21:50:56-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,22 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[People Are Amazing 2012]]></title>
+		
+		<link href="http://ethan.heroku.com2012/03/people-are-amazing-2012"/>
+		<updated>2012-03-28T21:49:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/03/people-are-amazing-2012</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>A compilation of amazing people being amazing.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -348,24 +364,6 @@
 				
 			]]>
 			<![CDATA[<p>The fourth and final installment of Kirby Ferguson&#8217;s <em>Everything is a Remix</em>.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Madeon Live on BBC Radio 1]]></title>
-		
-		<link href="http://ethan.heroku.com2012/02/madeon-live-on-bbc-radio-1"/>
-		<updated>2012-02-21T16:35:00-05:00</updated>
-		<id>http://ethan.heroku.com/2012/02/madeon-live-on-bbc-radio-1</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Madeon%20-%20Live%20on%20BBC%20Radio%201%20at%20Hull.mp3">Madeon Live on BBC Radio 1</a></p>
-				
-			]]>
-			<![CDATA[<p>Madeon performing a live set on BBC Radio 1 in Hull, UK.</p>
 ]]>
 		</content>
 	</entry>
