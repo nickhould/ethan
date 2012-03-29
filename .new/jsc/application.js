@@ -1,3 +1,5 @@
-(function() {
+$(document).ready(function() {
+	$("article.video header").fitVids();
+});
 
-}).call(this);
+$("audio,video").mediaelementplayer();
