@@ -243,17 +243,29 @@ p + p {
 #main article.text p + p {
   margin-top: 0;
   text-indent: 2em; }
+#main article.quote cite:before {
+  content: "\2014"; }
 #main article + article {
+  padding-top: 16em; }
+#main article footer {
+  color: #aaa;
+  font-style: italic;
+  padding-top: 3em; }
+  #main article footer a {
+    color: #ccc; }
+    #main article footer a:hover {
+      color: #53c980; }
+  #main article footer time:before {
+    content: "\2014"; }
+#main > footer {
   margin-top: 8em; }
-#main footer {
-  margin-top: 8em; }
-  #main footer a {
+  #main > footer a {
     background: #66e898;
     border-radius: 3px;
     color: #efefef;
     display: inline-block;
     padding: 0.5em 1.25em; }
-    #main footer a:hover {
+    #main > footer a:hover {
       background: #53c980; }
 
 /*
