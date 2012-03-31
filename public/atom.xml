@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-03-28T21:50:56-04:00</updated>
+	<updated>2012-03-31T12:44:07-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,24 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Electric Guest — This Head I Hold]]></title>
+		
+		<link href="http://ethan.heroku.com2012/03/electric-guest-this-head-i-hold"/>
+		<updated>2012-03-31T12:34:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/03/electric-guest-this-head-i-hold</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/03/Electric%20Guest%20-%20This%20Head%20I%20Hold.mp3">Electric Guest — This Head I Hold</a></p>
+				
+			]]>
+			<![CDATA[<p>My new favorite band, Electric Guest, has an excellent single <em>This Head I Hold</em> out now. I love it.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -348,22 +366,6 @@
 				
 			]]>
 			<![CDATA[<p>Please do yourself a favour and listen to my friend Brooke Tomlinson&#8217;s song—she&#8217;s an amazing singer and guitarist!</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Everything is a Remix, Part 4]]></title>
-		
-		<link href="http://ethan.heroku.com2012/02/everything-is-a-remix-part-4"/>
-		<updated>2012-02-24T21:37:00-05:00</updated>
-		<id>http://ethan.heroku.com/2012/02/everything-is-a-remix-part-4</id>
-		<content type="html">
-			<![CDATA[
-				
-			]]>
-			<![CDATA[<p>The fourth and final installment of Kirby Ferguson&#8217;s <em>Everything is a Remix</em>.</p>
 ]]>
 		</content>
 	</entry>
