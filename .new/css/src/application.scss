@@ -141,6 +141,7 @@ p + p {
 	}
 
 	& > footer {
+		font-weight: bold;
 		margin-top: 8em;
 
 		a {
@@ -152,6 +153,15 @@ p + p {
 
 			&:hover {
 				background: $secondary;
+			}
+		}
+		
+		li {
+			display: inline-block;
+			
+			.newer {
+				float: right;
+				margin-bottom: 2.5em;
 			}
 		}
 	}

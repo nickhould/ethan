@@ -782,6 +782,7 @@ p + p {
   #main article footer time:before {
     content: "\2014"; }
 #main > footer {
+  font-weight: bold;
   margin-top: 8em; }
   #main > footer a {
     background: #66e898;
@@ -791,6 +792,11 @@ p + p {
     padding: 0.5em 1.25em; }
     #main > footer a:hover {
       background: #53c980; }
+  #main > footer li {
+    display: inline-block; }
+    #main > footer li .newer {
+      float: right;
+      margin-bottom: 2.5em; }
 
 /*
 	V. Footer
