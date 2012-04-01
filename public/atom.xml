@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-03-31T12:44:07-04:00</updated>
+	<updated>2012-03-31T23:05:03-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,29 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Screwing Around vs. Science]]></title>
+		
+		<link href="http://ethan.heroku.com2012/03/screwing-around-vs-science"/>
+		<updated>2012-03-31T23:00:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/03/screwing-around-vs-science</id>
+		<content type="html">
+			<![CDATA[
+				
+					<blockquote>
+						The difference between screwing around and science is writing it down.
+
+						<p>&mdash;<cite>Adam Savage
+</cite></p>
+					</blockquote>
+				
+			]]>
+			<![CDATA[
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -348,24 +371,6 @@
 				
 			]]>
 			<![CDATA[<p>The Verge Forums user <a href="http://www.theverge.com/users/Sputnik8">Sputnik8</a> created this incredible mockup of a minimalist Windows desktop. If someone were to make this into an Ubuntu theme, I&#8217;d be eternally grateful.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Brooke Tomlinson]]></title>
-		
-		<link href="http://ethan.heroku.com2012/02/brooke-tomlinson"/>
-		<updated>2012-02-24T21:45:00-05:00</updated>
-		<id>http://ethan.heroku.com/2012/02/brooke-tomlinson</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p><a href="http://www.facebook.com/BrookeTomlinsonMusic">Brooke Tomlinson &rarr;</a></p>
-				
-			]]>
-			<![CDATA[<p>Please do yourself a favour and listen to my friend Brooke Tomlinson&#8217;s song—she&#8217;s an amazing singer and guitarist!</p>
 ]]>
 		</content>
 	</entry>

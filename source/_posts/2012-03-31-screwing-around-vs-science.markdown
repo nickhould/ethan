@@ -1,7 +1,7 @@
 ---
 layout: post
 type: quote
-title: 
+title: Screwing Around vs. Science
 date: 2012-03-31 23:00
 quote: 
   quote: |
