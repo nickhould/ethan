@@ -1,7 +1,7 @@
 ---
 layout: post
 type: photo
-title: MythBusters: Behind the Myths
+title: "MythBusters: Behind the Myths"
 date: 2012-04-01 20:21
 photo: 
   url: http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/04/behind-the-myths.jpg

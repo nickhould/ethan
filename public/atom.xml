@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-04-01T20:24:30-04:00</updated>
+	<updated>2012-04-01T20:28:16-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -15,15 +15,15 @@
 	
 	<entry>
 		
-			<title type="html"><![CDATA[Behind The Myths]]></title>
+			<title type="html"><![CDATA[MythBusters: Behind the Myths]]></title>
 		
-		<link href="http://ethan.heroku.com/blog/2012/04/01/behind-the-myths/"/>
-		<updated>2012-04-01T00:00:00-04:00</updated>
-		<id>http://ethan.heroku.com//blog/2012/04/01/behind-the-myths</id>
+		<link href="http://ethan.heroku.com2012/04/behind-the-myths"/>
+		<updated>2012-04-01T20:21:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/04/behind-the-myths</id>
 		<content type="html">
 			<![CDATA[
 				
-					<p></p>
+					<p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/04/behind-the-myths.jpg"><img src="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/04/behind-the-myths.jpg" /></a></p>
 				
 			]]>
 			<![CDATA[<p>I went to see MythBusters: Behind the Myths with <a href="http://twitter.com/Kat_Elizabeth_">Katherine</a> and it was great! Here&#8217;s a weird photo opportunity from the show.</p>
