@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-03-31T23:05:03-04:00</updated>
+	<updated>2012-04-01T20:24:30-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,24 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Behind The Myths]]></title>
+		
+		<link href="http://ethan.heroku.com/blog/2012/04/01/behind-the-myths/"/>
+		<updated>2012-04-01T00:00:00-04:00</updated>
+		<id>http://ethan.heroku.com//blog/2012/04/01/behind-the-myths</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>I went to see MythBusters: Behind the Myths with <a href="http://twitter.com/Kat_Elizabeth_">Katherine</a> and it was great! Here&#8217;s a weird photo opportunity from the show.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -353,24 +371,6 @@
 				
 			]]>
 			<![CDATA[<p>Madeon has finally released his new single, <em><a href="http://www.beatport.com/release/icarus/874833">Icarus</a></em>.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Windows Desktop UI Concept]]></title>
-		
-		<link href="http://ethan.heroku.com2012/02/windows-desktop-ui-concept"/>
-		<updated>2012-02-25T19:27:00-05:00</updated>
-		<id>http://ethan.heroku.com/2012/02/windows-desktop-ui-concept</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p><a href="http://www.theverge.com/2012/2/24/2822891/windows-desktop-ui-concept">Windows Desktop UI Concept &rarr;</a></p>
-				
-			]]>
-			<![CDATA[<p>The Verge Forums user <a href="http://www.theverge.com/users/Sputnik8">Sputnik8</a> created this incredible mockup of a minimalist Windows desktop. If someone were to make this into an Ubuntu theme, I&#8217;d be eternally grateful.</p>
 ]]>
 		</content>
 	</entry>
