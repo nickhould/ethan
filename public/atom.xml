@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-04-01T20:50:22-04:00</updated>
+	<updated>2012-04-06T19:41:58-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,22 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[I Would Run To You]]></title>
+		
+		<link href="http://ethan.heroku.com/2012/04/i-would-run-to-you"/>
+		<updated>2012-04-06T19:39:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/04/i-would-run-to-you</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>With this advertisment, Nike shows there&#8217;s a sweeter side to running.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -353,24 +369,6 @@
 				
 			]]>
 			<![CDATA[<p>An Anamanguchi remix of Ra Ra Riot&#8217;s <em>Too Dramatic</em>? Yes please.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Madeon — Icarus]]></title>
-		
-		<link href="http://ethan.heroku.com/2012/02/madeon-icarus"/>
-		<updated>2012-02-26T20:11:00-05:00</updated>
-		<id>http://ethan.heroku.com/2012/02/madeon-icarus</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/02/Madeon%20-%20Icarus.mp3">Madeon — Icarus</a></p>
-				
-			]]>
-			<![CDATA[<p>Madeon has finally released his new single, <em><a href="http://www.beatport.com/release/icarus/874833">Icarus</a></em>.</p>
 ]]>
 		</content>
 	</entry>
