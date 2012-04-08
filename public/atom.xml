@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-04-08T09:58:41-04:00</updated>
+	<updated>2012-04-08T10:04:29-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,29 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Jon Stewart on Christian Persection]]></title>
+		
+		<link href="http://ethan.heroku.com/2012/04/jon-stewart-persecuted-christians"/>
+		<updated>2012-04-08T10:00:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/04/jon-stewart-persecuted-christians</id>
+		<content type="html">
+			<![CDATA[
+				
+					<blockquote>
+						I have to say, as someone who is not a Christian, it&#8217;s hard for me to believe Christians are a persecuted people in America. God willing, maybe one of you one day will even rise up to get to be president of this country—or maybe forty-four in a row. But that&#8217;s my point, is they&#8217;ve taken this idea of no establishment as persecution, because they feel entitled, not to equal status, but greater status.
+
+						<p>&mdash;<cite>Jon Stewart
+</cite></p>
+					</blockquote>
+				
+			]]>
+			<![CDATA[
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -358,22 +381,6 @@
 				
 			]]>
 			<![CDATA[
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[The Most Astounding Fact]]></title>
-		
-		<link href="http://ethan.heroku.com/2012/03/the-most-astounding-fact"/>
-		<updated>2012-03-06T19:17:00-05:00</updated>
-		<id>http://ethan.heroku.com/2012/03/the-most-astounding-fact</id>
-		<content type="html">
-			<![CDATA[
-				
-			]]>
-			<![CDATA[<p>Neil deGrasse Tyson on what he considers the most astounding fact about the universe.</p>
 ]]>
 		</content>
 	</entry>
