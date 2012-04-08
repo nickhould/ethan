@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-04-06T19:41:58-04:00</updated>
+	<updated>2012-04-08T09:58:41-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,29 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Mike Treder on Atheism]]></title>
+		
+		<link href="http://ethan.heroku.com/2012/04/mike-treder-atheism"/>
+		<updated>2012-04-08T09:55:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/04/mike-treder-atheism</id>
+		<content type="html">
+			<![CDATA[
+				
+					<blockquote>
+						I&#8217;m sorry if my atheism offends you. But guess what—religious wars, Jihads, Crusades, Inquisitions, censoring of free speech, brainwashing of children, murdering of albinos, forcing girls into underage marriages, male and female genital mutilation, stoning, pederasty, homophobia, and rejection of science and reason offends me.
+
+						<p>&mdash;<cite>Mike Treder
+</cite></p>
+					</blockquote>
+				
+			]]>
+			<![CDATA[
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -351,24 +374,6 @@
 				
 			]]>
 			<![CDATA[<p>Neil deGrasse Tyson on what he considers the most astounding fact about the universe.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Ra Ra Riot — Too Dramatic (Anamanaguchi Remix)]]></title>
-		
-		<link href="http://ethan.heroku.com/2012/03/ra-ra-riot-too-dramatic-anamanaguchi-remix"/>
-		<updated>2012-03-03T09:14:00-05:00</updated>
-		<id>http://ethan.heroku.com/2012/03/ra-ra-riot-too-dramatic-anamanaguchi-remix</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/03/Ra%20Ra%20Riot%20-%20Too%20Dramatic%20%28Anamanaguchi%20Remix%29.mp3">Ra Ra Riot — Too Dramatic (Anamanaguchi Remix)</a></p>
-				
-			]]>
-			<![CDATA[<p>An Anamanguchi remix of Ra Ra Riot&#8217;s <em>Too Dramatic</em>? Yes please.</p>
 ]]>
 		</content>
 	</entry>
