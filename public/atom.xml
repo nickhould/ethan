@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-04-08T21:02:09-04:00</updated>
+	<updated>2012-04-09T15:55:24-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,22 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[A Fantastic Fear of Everything]]></title>
+		
+		<link href="http://ethan.heroku.com2012/04/a-fantastic-fear-of-everything"/>
+		<updated>2012-04-09T15:53:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/04/a-fantastic-fear-of-everything</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>Simon Pegg&#8217;s new film <em>A Fantastic Fear of Everything</em> looks both hilarious and thoughtful.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -358,29 +374,6 @@
 				
 			]]>
 			<![CDATA[<p>United Nations special rapporteur on torture Juan Mendez has ruled that the conditions that the U.S. government are holding Wikileaks whistleblower Bradley Manning are &#8220;cruel and inhuman&#8221;. The Pentagon even refused to allow Mendez to see Manning in private, which is a violation of human rights procedures. Don&#8217;t forget that the court martial has not even ruled on the issue yet.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Mark Twain on Death]]></title>
-		
-		<link href="http://ethan.heroku.com2012/03/mark-twain-death"/>
-		<updated>2012-03-07T21:33:00-05:00</updated>
-		<id>http://ethan.heroku.com/2012/03/mark-twain-death</id>
-		<content type="html">
-			<![CDATA[
-				
-					<blockquote>
-						I do not fear death. I [was] dead for billions of years, and suffered not the slightest inconvenience.
-
-						<p>&mdash;<cite>Mark Twain
-</cite></p>
-					</blockquote>
-				
-			]]>
-			<![CDATA[
 ]]>
 		</content>
 	</entry>
