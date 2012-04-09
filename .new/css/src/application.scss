@@ -155,11 +155,13 @@ h3 {
 	font-size: 1.15em;
 }
 
-ol, ul {
-	margin: 0.75em 0;
+#main {
+	ol, ul {
+		margin: 0.75em 0;
 
-	li {
-		margin-left: 1.75em;
+		li {
+			margin-left: 1.75em;
+		}
 	}
 }
 
@@ -212,7 +214,13 @@ pre {
 		}
 
 		&.quote {
+			blockquote {
+				font-family: "PT Serif";
+			}
+
 			cite {
+				font-family: "Proxima Nova";
+
 				&:before {
 					content: "\2014";
 				}
@@ -251,7 +259,7 @@ pre {
 		a {
 			background: $primary;
 			border-radius: 3px;
-			color: #efefef;
+			color: #fff;
 			display: inline-block;
 			padding: 0.5em 1.25em;
 
@@ -262,6 +270,7 @@ pre {
 		
 		li {
 			display: inline-block;
+			margin: 0;
 			
 			.newer {
 				float: right;

@@ -798,9 +798,9 @@ h2 {
 h3 {
   font-size: 1.15em; }
 
-ol, ul {
+#main ol, #main ul {
   margin: 0.75em 0; }
-  ol li, ul li {
+  #main ol li, #main ul li {
     margin-left: 1.75em; }
 
 p + p {
@@ -831,8 +831,12 @@ pre {
   text-indent: 2em; }
 #main article.link h2 a:after {
   content: " \2192"; }
-#main article.quote cite:before {
-  content: "\2014"; }
+#main article.quote blockquote {
+  font-family: "PT Serif"; }
+#main article.quote cite {
+  font-family: "Proxima Nova"; }
+  #main article.quote cite:before {
+    content: "\2014"; }
 #main article + article {
   padding-top: 16em; }
 #main article footer {
@@ -851,13 +855,14 @@ pre {
   #main > footer a {
     background: #66e898;
     border-radius: 3px;
-    color: #efefef;
+    color: #fff;
     display: inline-block;
     padding: 0.5em 1.25em; }
     #main > footer a:hover {
       background: #53c980; }
   #main > footer li {
-    display: inline-block; }
+    display: inline-block;
+    margin: 0; }
     #main > footer li .newer {
       float: right;
       margin-bottom: 2.5em; }

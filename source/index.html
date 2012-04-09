@@ -7,17 +7,11 @@ layout: default
 {% assign content = page.content %}
 	{% include article.html %}
 {% endfor %}
-<footer class="row" id="pagination">
+<footer>
 	<nav>
-		{% if paginator.next_page %}
-			<p id="older"><a href="{{ paginator.next_page }}">&larr; Older</a></p>
-		{% endif %}
-		{% if paginator.next_page or paginator_previous.page %}
-			<p id="number">{{ paginator.page }} <em>of</em> {{ paginator.total_pages }}</p>
-		{% endif %}
-		{% if paginator.previous_page %}
-			<p id="newer"><a href="{{ paginator.previous_page }}">Newer &rarr;</a></p>
-		{% endif %}
+		<ul>
+			{% if paginator.next_page %}<li class="older"><a href="{{ paginator.next_page }}">&larr; Older</a></li>{% endif %}
+			{% if paginator.previous_page %}<li class="newer"><a href="{{ paginator.previous_page }}">Newer &rarr;</a></li>{% endif %}
+		</ul>
 	</nav>
 </footer>
-
