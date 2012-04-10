@@ -3,352 +3,229 @@
 		file: css/application.css
 */
 
+$primary: rgb(102, 232, 152);
+$secondary: rgb(83, 201, 128);
+
+@import "compass/css3";
+
+@import url(http://fonts.googleapis.com/css?family=PT+Serif);
+
+$light: "/fonts/proxima-nova/light/light";
+@include font-face("Proxima Nova", font-files($light + ".woff", $light + ".ttf", $light + ".svg"), $light + ".eot", thin, normal);
+
+$light-italic: "/fonts/proxima-nova/light-italic/light-italic";
+@include font-face("Proxima Nova", font-files($light-italic + ".woff", $light-italic + ".ttf", $light-italic + ".svg"), $light-italic + ".eot", thin, italic);
+
+$regular: "/fonts/proxima-nova/regular/regular";
+@include font-face("Proxima Nova", font-files($regular + ".woff", $regular + ".ttf", $regular + ".svg"), $regular + ".eot", normal, normal);
+
+$regular-italic: "/fonts/proxima-nova/regular-italic/regular-italic";
+@include font-face("Proxima Nova", font-files($regular-italic + ".woff", $regular-italic + ".ttf", $regular-italic + ".svg"), $regular-italic + ".eot", normal, italic);
+
+$semibold: "/fonts/proxima-nova/semibold/semibold";
+@include font-face("Proxima Nova", font-files($semibold + ".woff", $semibold + ".ttf", $semibold + ".svg"), $semibold + ".eot", bold, normal);
+
+$semibold-italic: "/fonts/proxima-nova/semibold-italic/semibold-italic";
+@include font-face("Proxima Nova", font-files($semibold-italic + ".woff", $semibold-italic + ".ttf", $semibold-italic + ".svg"), $semibold-italic + ".eot", bold, italic);
+
 @import "gyaku";
-
-$calluna: "calluna-1", "calluna-2";
-$calluna-sans: "calluna-sans-1", "calluna-sans-2";
-
-$primary: #53C980;
-$secondary: #1CAD54;
-
-$lighter-primary: #66E898;
-$lighter-secondary: #42E37F;
-
-$nav: #698066;
 
 /*
 	= Appendix
 		I. Media Queries
-		II. Universal
-		III. Header
-		IV. Main
-		V. Footer
+		II.
 */
 
 /*
-	I. Media Queries
-*/
-
-@media handheld, only screen and (max-width: 767px) { /* Handheld devices. */
-	body > nav {
-		li {
-			display: block;
-		}
-	}
-	
-	blockquote {
-		text-align: left;
-		
-		cite p {
-			left: 0px !important;
-		}
-	}
-}
-
-@media only screen and (-webkit-min-device-pixel-ratio: 2) { /* iPhone 4 */
-
-}
-
-/*
-	II. Universal
+	I. Universal 
 */
 
 body {
-	border-top: 2px solid $lighter-secondary;
-	color: #333;
-	font: 300 15px/1.75em $calluna, serif;
-	text-align: center;
+	background: url("../img/border.png") repeat-x;
+	color: #444;
+	font: normal 14px/1.75em "Proxima Nova", serif;
 }
 
 a {
-	color: $primary;
+	color: $secondary;
 	text-decoration: none;
-	
-	&:hover {
-		color: $secondary;
-	}
-}
 
-abbr {
-	border-bottom: 1px dotted #ccc;
+	&:hover {
+		color: $primary;
+	}
 }
 
 blockquote {
-	border-left: 3px solid $lighter-secondary;
-	color: #444;
-	font-size: 1.15em;
-	font-style: italic;
-	margin: 1.25em 0 3em;
+	border-left: 5px solid #efefef;
+	margin: 1em 0;
 	padding-left: 1em;
-	text-align: justify;
-	
-	cite {
-		text-align: center;
-		
-		p {
-			font-style: normal !important;
-			margin-bottom: 0;
-			margin-top: 1em;
-			padding-bottom: 0;
-			position: relative;
-		}
-	}
 }
 
-code, pre {
-	font: 0.85em/1.25em "Anonymous Pro", Monaco, Courier New, Courier, monospace;
+br {
+	height: 2em !important;
 }
 
-em {
-	font-style: italic;
-}
-
-figure {
-	margin: 1em 0 2em;
-	
-	figcaption {
-		font-style: italic;
-	}
+h1, h2, h3, h4, h5, h6 {
+	font-family: "PT Serif";
 }
 
 h1 {
-	padding-bottom: 10px;
-	text-transform: uppercase;
-	
-	a {
-		border-bottom: 5px solid $lighter-primary;
-		color: #555;
-	
-		&:hover {
-			border-bottom: 5px solid $lighter-secondary;
-			color: #333;
-		}
-	}
+	font-weight: 300;
+	font-size: 1.15em;
 }
 
 h2 {
-	font-family: $calluna-sans, helvetica, arial, sans-serif;
-	font-weight: 700;
 	font-size: 1.25em;
-	text-transform: uppercase;
-	
-	a {
-		color: #222;
-		
-		&:hover {
-			color: #444;
-		}
-	}
+	font-weight: 300;
+}
+
+h3, h4, h5, h6 {
+	margin-top: 3em;
 }
 
 h3 {
-	font-size: 1.125em;
+	font-size: 1.15em;
 }
 
-h4 {
-	font-size: 1em;
-}
+#main {
+	ol, ul {
+		margin: 0.75em 0;
 
-h5 {
-	font-size: 1em;
-}
-
-h6 {
-	font-size: 0.75em;
+		li {
+			margin-left: 1.75em;
+		}
+	}
 }
 
 p + p {
-	padding-top: 1.75em;
-}
-
-p > img + p {
-	text-indent: 0;
+	margin-top: 1em;
 }
 
 pre {
-	background: #fafafa !important;
+	background: #ddd;
+	display: block;
+	margin: 2em 0;
 	padding: 1em;
-	margin: 1em 0 !important;
-
-	& + p {
-		text-indent: 0 !important;
-	}
-}
-
-ul, ol {
-	padding: 1.75em 0;
-}
-
-strong {
-	font-weight: bold;
 }
 
 #contain {
-	margin: 4em 0;
+	margin: 6em auto 4em;
 }
 
 
 /*
-	III. Header
+	II. Header
 */
 
 #contain > header {
-	padding-bottom: 5em;
-	text-align: center;
+	margin-bottom: 4em;
 }
 
 
 /*
-	IV. Main
+	III. Main
 */
 
-article {
-	* {
-		margin: 0 auto;
-	}
-	
-	header {
-		margin-bottom: 1em;
-		max-width: 760px;
-	}
-	
-	section {
-		max-width: 460px;
-	}
-	
-	p.source {
-		text-align: center;
-		font-style: italic;
-	}
-	
-	footer {
-		margin-top: 2em;
-		text-align: center;
+#main {
+	article {
+		& + article {
+			padding-top: 16em;
+		}
+
+		header {
+			margin-bottom: 1em;
+		}
 		
-		time {
-			border-top: 1px solid #e0e0e0;
-			font-size: 0.85em;
-			padding: 0.75em 5em;
-			
-			&:hover {
-				border-top: 1px solid #333;
-				
-				a {
-					color: #333;
+		&.link {
+			h2 a:after {
+				content: " \2192";
+			}
+		}
+
+		&.quote {
+			blockquote {
+				font-family: "PT Serif";
+
+				cite {
+					display: block;
+					font-family: "Proxima Nova";
+					padding-top: 1em;
 				}
 			}
-			
+		}
+
+		&.text {
+			p + p {
+				margin-top: 0;
+				text-indent: 2em;
+			}
+		}
+
+		footer {
+			color: #aaa;
+			font-style: italic;
+			padding-top: 3em;
+
 			a {
 				color: #ccc;
-				display: inline-block;
-				
+
 				&:hover {
-					color: #333;
+					color: $secondary;
+				}
+			}
+
+			time {
+				&:before {
+					content: "\2014";
 				}
 			}
 		}
 	}
-	
-	.livefyre {
-		margin-top: 1.75em;
-	}
-	
-	.single {
-		margin-bottom: 0;
-		padding-bottom: 0;
-	}
-}
 
-article + article {
-	padding-top: 12em;
-}
+	& > footer {
+		font-weight: bold;
+		margin-top: 8em;
 
-.text {
-	text-align: justify;
-	
-	blockquote {
-		margin: 1.75em 0;
-	}
-	
-	blockquote, br, ol, ul {
-		& + p {
-			text-indent: 0 !important;
+		a {
+			background: $primary;
+			border-radius: 3px;
+			color: #fff;
+			display: inline-block;
+			padding: 0.5em 1.25em;
+
+			&:hover {
+				background: $secondary;
+			}
 		}
-	}
-
-	h2 {
-		text-align: center !important;
-	}
-	
-	h3, h4, h5, h6 {
-		margin-top: 1.75em;
 		
-		& + p {
-			text-indent: 0 !important;
+		li {
+			display: inline-block;
+			margin: 0;
+			
+			.newer {
+				float: right;
+				margin-bottom: 2.5em;
+			}
 		}
-	}
-	
-	section p:nth-child(n+2) {
-		text-indent: 1.75em;
-	}
-	
-	section p + p {
-		margin: 0;
-		padding: 0;
-	}
-	
-	.livefyre {
-		p {
-			text-indent: 0 !important;
-		}
-	}
-}
-
-footer#pagination {
-	margin-top: 10em;
-	max-width: 760px;
-	
-	p {
-		display: inline-block;
-	}
-	
-	p + p {
-		margin: 0;
-		padding: 0;
-	}
-	
-	p#older {
-		float: left;
-	}
-	
-	p#newer {
-		float: right;
-	}
-	
-	p#number {
-		position: relative;
-		left: -20px;
-	}
-}
-
-.link h2 a:after {
-	content: " \2192";
-}
-
-.photo, .audio, .video {
-	header {
-		margin-bottom: 1.25em;
 	}
 }
 
 
 /*
-	V. Footer
+	IV. Footer
 */
 
 #contain > footer {
-	margin-top: 6em;
+	border-top: 1px solid #efefef;
+    margin-top: 6em;
 	padding-top: 1.5em;
-	border-top: 1px solid #e0e0e0;
-}
 
+	ul {
+		margin-bottom: 0.5em;
+
+		li {
+			display: inline;
+			padding-right: 1.5em;
+		}
+	}
+}

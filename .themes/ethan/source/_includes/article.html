@@ -1,4 +1,4 @@
-<article class="{{ page.type }} row {% if page.single == true %}single{% endif %}">
+<article class="{{ page.type }}">
 	<header>
 		{% case page.type %}
 			{% when "generic" %}
@@ -9,6 +9,12 @@
 				{% endif %}
 			{% when "photo" %}
 				<p><a href="{{ page.photo.url }}"><img src="{{ page.photo.url }}" /></a></p>
+			{% when "photoset" %}
+				<div class="gallery">
+					{% for photo in page.photoset.photos %}
+						<a href="{{ photo.url }}"><img src="{{ photo.url }}" title="{{ photo.title }}" /></a>
+					{% endfor %}
+				</div>
 			{% when "quote" %}
 				<blockquote>
 					{{ page.quote.quote | markdownify }}
@@ -21,18 +27,14 @@
 			{% when "video" %}
 				<p>{{ page.video.embed }}</p>
 			{% else %}
-				<p>Unknown article type.</p>
+				<p>&nbsp;</p>
 		{% endcase %}
 	</header>
-	<section class="instapaper_body">
-		{{ content }}
-		
-		{% if page.source.url %}
-			<p class="source">via <a href="{{ page.source.url }}">{{ page.source.title }}</a></p>
-		{% endif %}
-	</section>
+
+	{{ content }}
+	
 	<footer>
-		<p>{% include post/date.html %}{{ time }}</p>
+		<p>{% include post/date.html %}{{ time }}{% if page.source.url %} via <a href="{{ page.source.url }}">{{ page.source.title }}</a>{% endif %}</p>
 		{% if page.single == true %}
 			{% include post/livefyre.html %}
 		{% endif %}

@@ -30,13 +30,11 @@
 				<p>&nbsp;</p>
 		{% endcase %}
 	</header>
+
 	{{ content }}
 	
-	{% if page.source.url %}
-		<p class="source">via <a href="{{ page.source.url }}">{{ page.source.title }}</a></p>
-	{% endif %}
 	<footer>
-		<p>{% include post/date.html %}{{ time }}</p>
+		<p>{% include post/date.html %}{{ time }}{% if page.source.url %} via <a href="{{ page.source.url }}">{{ page.source.title }}</a>{% endif %}</p>
 		{% if page.single == true %}
 			{% include post/livefyre.html %}
 		{% endif %}
