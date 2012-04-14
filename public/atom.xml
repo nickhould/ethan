@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-04-14T07:48:03-04:00</updated>
+	<updated>2012-04-14T08:07:18-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,22 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[GoPro Sports]]></title>
+		
+		<link href="http://ethan.heroku.com2012/04/gopro-sports"/>
+		<updated>2012-04-14T08:02:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/04/gopro-sports</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>Easton strapped one-hundred GoPro cameras onto players and gear and got sport awesomeness.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -354,22 +370,6 @@
 				
 			]]>
 			<![CDATA[<p>Another brilliant cover by <a href="http://brooketomlinson.com">Brooke Tomlinson</a>, this time of <em>She Will Be Loved</em> by Maroon 5.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[We Stopped Dreaming]]></title>
-		
-		<link href="http://ethan.heroku.com2012/03/we-stopped-dreaming"/>
-		<updated>2012-03-12T21:26:00-04:00</updated>
-		<id>http://ethan.heroku.com/2012/03/we-stopped-dreaming</id>
-		<content type="html">
-			<![CDATA[
-				
-			]]>
-			<![CDATA[<p>Neil deGrasse Tyson on the downfall of the United States space program.</p>
 ]]>
 		</content>
 	</entry>
