@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-04-14T08:07:18-04:00</updated>
+	<updated>2012-04-28T10:55:06-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,38 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[France]]></title>
+		
+		<link href="http://ethan.heroku.com2012/04/france"/>
+		<updated>2012-04-25T19:55:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/04/france</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p style="margin-bottom: 2em">I returned from a fantastic ten-day trip to Paris and Caen, France on Wednesday. I had a great time seeing monuments like the Tour Eiffel, Arc de Triomphe, Musée du Louvre, Musée d&#8217;Orsay, Notre Dame, Sacre Coeur, Mont Saint-Michel, and others. However, it was the people I traveled with that made it not only a good trip, but an awesome one.</p>
+
+
+
+
+<p style="margin-bottom: 1em; text-indent: 0"><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/04/france/DSC00291.JPG"><img src="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/04/france/DSC00291.JPG" alt="The famous Musée du Louvre glass pyramid." /></a></p>
+
+
+
+
+<p style="margin-bottom: 1em; text-indent: 0"><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/04/france/DSC00566.JPG"><img src="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/04/france/DSC00566.JPG" alt="Sacre Coeur at night." /></a></p>
+
+
+
+
+<p style="margin-bottom: 1em; text-indent: 0"><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/04/france/DSC00794.JPG"><img src="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/04/france/DSC00794.JPG" alt="Sunset over Paris." /></a></p>
+
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -354,22 +386,6 @@
 				
 			]]>
 			<![CDATA[<p><a href="http://www.youtube.com/user/minutephysics">Minute Physics</a> explains Einstein&#8217;s Special Theory of Relativity.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Brooke Tomlinson covers "She Will Be Loved"]]></title>
-		
-		<link href="http://ethan.heroku.com2012/03/brooke-tomlinson-she-will-be-loved"/>
-		<updated>2012-03-17T22:56:00-04:00</updated>
-		<id>http://ethan.heroku.com/2012/03/brooke-tomlinson-she-will-be-loved</id>
-		<content type="html">
-			<![CDATA[
-				
-			]]>
-			<![CDATA[<p>Another brilliant cover by <a href="http://brooketomlinson.com">Brooke Tomlinson</a>, this time of <em>She Will Be Loved</em> by Maroon 5.</p>
 ]]>
 		</content>
 	</entry>
