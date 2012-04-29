@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-04-28T14:06:52-04:00</updated>
+	<updated>2012-04-29T11:52:10-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,24 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Forbes — Creating Innovators: Why America's Education System Is Obsolete]]></title>
+		
+		<link href="http://ethan.heroku.com2012/04/creating-innovators"/>
+		<updated>2012-04-29T11:48:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/04/creating-innovators</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p><a href="http://www.forbes.com/sites/ericaswallow/2012/04/25/creating-innovators/">Forbes — <em>Creating Innovators: Why America&#8217;s Education System Is Obsolete</em> &rarr;</a></p>
+				
+			]]>
+			<![CDATA[<blockquote><p>Today knowledge is ubiquitous, constantly changing, growing exponentially… Today knowledge is free. It’s like air, it’s like water. It’s become a commodity… There’s no competitive advantage today in knowing more than the person next to you. The world doesn’t care what you know. What the world cares about is what you can do with what you know.</p></blockquote>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -370,22 +388,6 @@
 				
 			]]>
 			<![CDATA[
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Minute Physics explains Einstein's Special Theory of Relativity]]></title>
-		
-		<link href="http://ethan.heroku.com2012/03/special-theory-of-relativity"/>
-		<updated>2012-03-19T15:57:00-04:00</updated>
-		<id>http://ethan.heroku.com/2012/03/special-theory-of-relativity</id>
-		<content type="html">
-			<![CDATA[
-				
-			]]>
-			<![CDATA[<p><a href="http://www.youtube.com/user/minutephysics">Minute Physics</a> explains Einstein&#8217;s Special Theory of Relativity.</p>
 ]]>
 		</content>
 	</entry>
