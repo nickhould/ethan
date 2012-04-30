@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-04-29T11:52:10-04:00</updated>
+	<updated>2012-04-30T19:57:37-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,22 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Reggie Watts James on All Star Celebrity Bowling]]></title>
+		
+		<link href="http://ethan.heroku.com2012/04/reggie-watts-jams-on-all-star-celebrity-bowling"/>
+		<updated>2012-04-30T19:54:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/04/reggie-watts-jams-on-all-star-celebrity-bowling</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>Reggie Watts jams on <a href="http://youtube.com/nerdist">Nerdist&#8217;s</a> <a href="http://www.youtube.com/playlist?list=PL4F5986B34F73F112&amp;feature=plcp">All-Star Celebrity Bowling</a>.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -365,29 +381,6 @@
 				
 			]]>
 			<![CDATA[<p>Madeon has released yet another remix, this time of <em>Night Out</em> by Martin Solveig.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Science Is True Tyson]]></title>
-		
-		<link href="http://ethan.heroku.com2012/03/science-is-true-tyson"/>
-		<updated>2012-03-19T16:10:00-04:00</updated>
-		<id>http://ethan.heroku.com/2012/03/science-is-true-tyson</id>
-		<content type="html">
-			<![CDATA[
-				
-					<blockquote>
-						The good thing about science is that it&#8217;s true whether or not you believe in it.
-
-						<p>&mdash;<cite>Neil deGrasse Tyson
-</cite></p>
-					</blockquote>
-				
-			]]>
-			<![CDATA[
 ]]>
 		</content>
 	</entry>
