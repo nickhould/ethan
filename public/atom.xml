@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com/atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com/"/>
-	<updated>2012-04-30T19:57:37-04:00</updated>
+	<updated>2012-04-30T20:30:24-04:00</updated>
 	<id>http://ethan.heroku.com/</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -15,7 +15,23 @@
 	
 	<entry>
 		
-			<title type="html"><![CDATA[Reggie Watts James on All Star Celebrity Bowling]]></title>
+			<title type="html"><![CDATA[Prometheus]]></title>
+		
+		<link href="http://ethan.heroku.com2012/04/prometheus"/>
+		<updated>2012-04-30T20:29:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/04/prometheus</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>Ridley Scott&#8217;s new film <em>Prometheus</em> is coming out June 1st and oh my does it look good.</p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Reggie Watts Jams on All Star Celebrity Bowling]]></title>
 		
 		<link href="http://ethan.heroku.com2012/04/reggie-watts-jams-on-all-star-celebrity-bowling"/>
 		<updated>2012-04-30T19:54:00-04:00</updated>
@@ -363,24 +379,6 @@
 				
 			]]>
 			<![CDATA[<p>From OK Go comes Ok Go-pid, the perfect dating website.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Martin Solveig — Night Out (Madeon Remix)]]></title>
-		
-		<link href="http://ethan.heroku.com2012/03/martin-solveig-night-out-madeon-remix"/>
-		<updated>2012-03-19T16:32:00-04:00</updated>
-		<id>http://ethan.heroku.com/2012/03/martin-solveig-night-out-madeon-remix</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/03/Martin%20Solveig%20-%20Night%20Out%20%28Madeon%20Remix%29.mp3">Martin Solveig — Night Out (Madeon Remix)</a></p>
-				
-			]]>
-			<![CDATA[<p>Madeon has released yet another remix, this time of <em>Night Out</em> by Martin Solveig.</p>
 ]]>
 		</content>
 	</entry>

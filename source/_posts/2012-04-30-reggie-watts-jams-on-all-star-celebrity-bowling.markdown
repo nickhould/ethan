@@ -1,7 +1,7 @@
 ---
 layout: post
 type: video
-title: Reggie Watts James on All Star Celebrity Bowling
+title: Reggie Watts Jams on All Star Celebrity Bowling
 date: 2012-04-30 19:54
 video: 
   embed: |
