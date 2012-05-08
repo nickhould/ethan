@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com//atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com//"/>
-	<updated>2012-05-02T21:41:39-04:00</updated>
+	<updated>2012-05-08T13:40:34-04:00</updated>
 	<id>http://ethan.heroku.com//</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,29 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[R.I.P. Maurice Sendak]]></title>
+		
+		<link href="http://ethan.heroku.com/2012/05/maurice-sendak"/>
+		<updated>2012-05-08T13:38:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/05/maurice-sendak</id>
+		<content type="html">
+			<![CDATA[
+				
+					<blockquote>
+						You can&#8217;t get rid of evil. We can&#8217;t, and I feel that so intensely. All the idiots that keep coming into the world and wrecking people&#8217;s lives. And it is such an abundance of idiocy that you lose courage, okay? That you lose hope — I don&#8217;t want to lose hope.
+
+						<p>&mdash;<cite>Maurice Sendak
+</cite></p>
+					</blockquote>
+				
+			]]>
+			<![CDATA[<p>Maurice Sendak died today at the age of 83. He will be missed.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -365,22 +388,6 @@
 				
 			]]>
 			<![CDATA[<p>Having filmed episodes two and three of series seven, the BBC have released a new trailer for the next series of Doctor Who! October can&#8217;t come soon enough!</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Neil deGrasse Tyson on being a meme.]]></title>
-		
-		<link href="http://ethan.heroku.com/2012/03/neil-degrasse-tyson-on-the-verge"/>
-		<updated>2012-03-25T13:00:00-04:00</updated>
-		<id>http://ethan.heroku.com/2012/03/neil-degrasse-tyson-on-the-verge</id>
-		<content type="html">
-			<![CDATA[
-				
-			]]>
-			<![CDATA[<p>Neil deGrasse Tyson on <em>On the Verge</em> talking about what it feels like to be a meme.</p>
 ]]>
 		</content>
 	</entry>
