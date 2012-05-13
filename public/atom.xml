@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com//atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com//"/>
-	<updated>2012-05-11T16:12:33-04:00</updated>
+	<updated>2012-05-12T21:05:15-04:00</updated>
 	<id>http://ethan.heroku.com//</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,22 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Bo Burnham's Rant]]></title>
+		
+		<link href="http://ethan.heroku.com/2012/05/bo-burnham-rant"/>
+		<updated>2012-05-12T21:01:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/05/bo-burnham-rant</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>Yes, it&#8217;s old, but Bo Burnham&#8217;s rant is pure gold.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -365,29 +381,6 @@
 				
 			]]>
 			<![CDATA[<p>A compilation of amazing people being amazing.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Adam Savage at the Reason Rally]]></title>
-		
-		<link href="http://ethan.heroku.com/2012/03/adam-savage-reason-rally"/>
-		<updated>2012-03-26T20:02:00-04:00</updated>
-		<id>http://ethan.heroku.com/2012/03/adam-savage-reason-rally</id>
-		<content type="html">
-			<![CDATA[
-				
-					<blockquote>
-						I have concluded through careful empirical analysis and much thought that somebody is looking out for me, keeping track of what I think about things, forgiving me when I do less that I ought. Giving me strength to shoot for more than I think I&#8217;m capable of. I believe they know everything that I do and think, and they still love me, and I&#8217;ve concluded, after careful consideration, that this person keeping score is ME.
-
-						<p>&mdash;<cite>Adam Savage
-</cite></p>
-					</blockquote>
-				
-			]]>
-			<![CDATA[<p>Adam Savage on his belief system at this year&#8217;s Reason Rally.</p>
 ]]>
 		</content>
 	</entry>
