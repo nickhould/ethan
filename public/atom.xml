@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com//atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com//"/>
-	<updated>2012-05-13T20:20:08-04:00</updated>
+	<updated>2012-05-14T19:04:29-04:00</updated>
 	<id>http://ethan.heroku.com//</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,24 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[The Oatmeal — Why Nikola Tesla was the greatest geek who ever lived.]]></title>
+		
+		<link href="http://ethan.heroku.com/2012/05/nikola-tesla"/>
+		<updated>2012-05-14T19:02:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/05/nikola-tesla</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p><a href="http://theoatmeal.com/comics/tesla">The Oatmeal — <em>Why Nikola Tesla was the greatest geek who ever lived.</em> &rarr;</a></p>
+				
+			]]>
+			<![CDATA[<p>The Oatmeal articulates my love of Nikola Tesla.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -370,22 +388,6 @@
 				
 			]]>
 			<![CDATA[<p>My new favorite band, Electric Guest, has an excellent single <em>This Head I Hold</em> out now. I love it.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[People Are Amazing 2012]]></title>
-		
-		<link href="http://ethan.heroku.com/2012/03/people-are-amazing-2012"/>
-		<updated>2012-03-28T21:49:00-04:00</updated>
-		<id>http://ethan.heroku.com/2012/03/people-are-amazing-2012</id>
-		<content type="html">
-			<![CDATA[
-				
-			]]>
-			<![CDATA[<p>A compilation of amazing people being amazing.</p>
 ]]>
 		</content>
 	</entry>
