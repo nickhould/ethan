@@ -14,6 +14,7 @@ group :development do
   gem 'stringex'
   gem 'liquid', '2.2.2'
   gem 'kumade'
+  gem 'puma'
 end
 
 gem 'sinatra', '1.2.6'

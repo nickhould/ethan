@@ -43,7 +43,7 @@ $semibold-italic: "/fonts/proxima-nova/semibold-italic/semibold-italic";
 body {
 	background: url("../img/border.png") repeat-x;
 	color: #444;
-	font: normal 14px/1.75em "Proxima Nova", serif;
+	font: normal 14px/2em "Proxima Nova", serif;
 }
 
 a {
@@ -58,6 +58,7 @@ a {
 blockquote {
 	border-left: 5px solid #efefef;
 	margin: 1em 0;
+	font-family: "PT Serif";
 	padding-left: 1em;
 }
 
@@ -78,6 +79,22 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
 	font-weight: 300;
 	font-size: 1.15em;
+
+	a {
+		color: #444;
+
+		&:hover {
+			color: $secondary;
+
+			span {
+				color: $primary;
+			}
+		}
+
+		span {
+			color: $secondary;
+		}
+	}
 }
 
 h2 {
@@ -151,6 +168,7 @@ pre {
 		&.quote {
 			blockquote {
 				font-family: "PT Serif";
+				line-height: 1.75em;
 
 				cite {
 					display: block;
