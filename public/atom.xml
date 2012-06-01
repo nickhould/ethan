@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com//atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com//"/>
-	<updated>2012-05-23T17:38:42-04:00</updated>
+	<updated>2012-06-01T15:17:35-04:00</updated>
 	<id>http://ethan.heroku.com//</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,22 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Martin Solveig — Night Out (Madeon Remix)(Martin Solveig Cover)]]></title>
+		
+		<link href="http://ethan.heroku.com/2012/06/night-out-madeon-remix-martin-solveig-cover"/>
+		<updated>2012-06-01T15:15:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/06/night-out-madeon-remix-martin-solveig-cover</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>Martin Solveig did a cover of the Madeon remix of his song, <em>Night Out</em>.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -363,29 +379,6 @@
 				
 			]]>
 			<![CDATA[<p>I went to see MythBusters: Behind the Myths with <a href="http://twitter.com/Kat_Elizabeth_">Katherine</a> and it was great! Here&#8217;s a weird photo opportunity from the show.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Screwing Around vs. Science]]></title>
-		
-		<link href="http://ethan.heroku.com/2012/03/screwing-around-vs-science"/>
-		<updated>2012-03-31T23:00:00-04:00</updated>
-		<id>http://ethan.heroku.com/2012/03/screwing-around-vs-science</id>
-		<content type="html">
-			<![CDATA[
-				
-					<blockquote>
-						The difference between screwing around and science is writing it down.
-
-						<p>&mdash;<cite>Adam Savage
-</cite></p>
-					</blockquote>
-				
-			]]>
-			<![CDATA[
 ]]>
 		</content>
 	</entry>
