@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com//atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com//"/>
-	<updated>2012-06-01T15:17:35-04:00</updated>
+	<updated>2012-06-02T14:48:48-04:00</updated>
 	<id>http://ethan.heroku.com//</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,22 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Madeon — Finale (Teaser)]]></title>
+		
+		<link href="http://ethan.heroku.com/2012/06/madeon-finale-teaser"/>
+		<updated>2012-06-02T14:46:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/06/madeon-finale-teaser</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>Madeon has released a teaser for his upcoming track <em>Finale</em>. Epic.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -361,24 +377,6 @@
 				
 			]]>
 			<![CDATA[<p>With this advertisment, Nike shows there&#8217;s a sweeter side to running.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[MythBusters: Behind the Myths]]></title>
-		
-		<link href="http://ethan.heroku.com/2012/04/behind-the-myths"/>
-		<updated>2012-04-01T20:21:00-04:00</updated>
-		<id>http://ethan.heroku.com/2012/04/behind-the-myths</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p><a href="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/04/behind-the-myths.jpg"><img src="http://dl.dropbox.com/u/2938195/ethan.heroku.com/2012/04/behind-the-myths.jpg" /></a></p>
-				
-			]]>
-			<![CDATA[<p>I went to see MythBusters: Behind the Myths with <a href="http://twitter.com/Kat_Elizabeth_">Katherine</a> and it was great! Here&#8217;s a weird photo opportunity from the show.</p>
 ]]>
 		</content>
 	</entry>
