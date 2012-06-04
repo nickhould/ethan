@@ -9,4 +9,4 @@ video:
 permalink: 2012/06/ken-robinson-changing-educational-paradigm
 ---
 
-Sir Ken Robinson did a TED Talk on the changing education paradigm in 2010 and it is stil relevant today.
+Sir Ken Robinson did a TED Talk on the changing education paradigm in 2010 and it is still relevant today.
