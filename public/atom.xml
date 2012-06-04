@@ -4,7 +4,7 @@
 	<title><![CDATA[Ethan Turkeltaub]]></title>
 	<link href="http://ethan.heroku.com//atom.xml" rel="self"/>
 	<link href="http://ethan.heroku.com//"/>
-	<updated>2012-06-02T14:48:48-04:00</updated>
+	<updated>2012-06-04T15:59:46-04:00</updated>
 	<id>http://ethan.heroku.com//</id>
 	<author>
 		<name><![CDATA[Ethan Turkeltaub]]></name>
@@ -12,6 +12,22 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Sir Ken Robinson on the Changing Educational Paradigm]]></title>
+		
+		<link href="http://ethan.heroku.com/2012/06/ken-robinson-changing-educational-paradigm"/>
+		<updated>2012-06-04T15:58:00-04:00</updated>
+		<id>http://ethan.heroku.com/2012/06/ken-robinson-changing-educational-paradigm</id>
+		<content type="html">
+			<![CDATA[
+				
+			]]>
+			<![CDATA[<p>Sir Ken Robinson did a TED Talk on the changing education paradigm in 2010 and it is stil relevant today.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -361,22 +377,6 @@
 				
 			]]>
 			<![CDATA[
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[I Would Run To You]]></title>
-		
-		<link href="http://ethan.heroku.com/2012/04/i-would-run-to-you"/>
-		<updated>2012-04-06T19:39:00-04:00</updated>
-		<id>http://ethan.heroku.com/2012/04/i-would-run-to-you</id>
-		<content type="html">
-			<![CDATA[
-				
-			]]>
-			<![CDATA[<p>With this advertisment, Nike shows there&#8217;s a sweeter side to running.</p>
 ]]>
 		</content>
 	</entry>
